@@ -669,14 +669,14 @@ Rough,http://cdn.adultiptv.net/rough.m3u8
 
 測試,#genre#
 1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=31
-1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=32
-1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=33
-1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=34
-1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=35
-1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=36
-1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=37
-1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=38
-1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=39
+2,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=32
+3,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=33
+4,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=34
+5,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=35
+6,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=36
+7,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=37
+8,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=38
+10,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=39
 1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=40
 1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=41
 1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=42
