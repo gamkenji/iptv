@@ -692,16 +692,9 @@ Live Cams,http://cdn.adultiptv.net/livecams.m3u8
 Rough,http://cdn.adultiptv.net/rough.m3u8
 
 測試,#genre#
-1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=401
-1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=402
-1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=403
-1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=404
-1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=405
-1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=406
-1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=407
-1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=408
-1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=409
-1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=410
-
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=001
+2,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=101
+3,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=201
+4,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=301
 
 
