@@ -738,4 +738,4 @@ Rough,http://cdn.adultiptv.net/rough.m3u8
 1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=98
 1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=99
 1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=100
-
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=101
