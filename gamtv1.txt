@@ -195,6 +195,7 @@ tvbs新聞,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=2
 好來屋電影,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=37
 三立都會,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=38
 tvbs歡樂,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=40
+jet綜合,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=41
 
 0206mitv源,#genre#
 中視 HD,mitv://198.255.74.56:41196/600dbef00008c37a7bdc6b376b306ae7.ts
@@ -674,14 +675,25 @@ Live Cams,http://cdn.adultiptv.net/livecams.m3u8
 Rough,http://cdn.adultiptv.net/rough.m3u8
 
 測試,#genre#
-1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=41
-1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=42
-1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=43
-1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=44
-1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=45
-1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=46
-1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=47
-1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=48
-1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=49
-1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=50
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=51
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=52
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=53
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=54
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=55
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=56
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=57
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=58
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=59
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=60
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=61
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=62
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=63
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=64
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=65
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=66
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=67
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=68
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=69
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=70
+
 
