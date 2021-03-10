@@ -668,6 +668,25 @@ Live Cams,http://cdn.adultiptv.net/livecams.m3u8
 Rough,http://cdn.adultiptv.net/rough.m3u8
 
 測試,#genre#
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=31
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=32
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=33
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=34
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=35
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=36
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=37
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=38
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=39
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=40
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=41
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=42
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=43
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=44
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=45
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=46
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=47
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=48
+1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=49
 1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=50
 1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=51
 1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=52
@@ -719,6 +738,4 @@ Rough,http://cdn.adultiptv.net/rough.m3u8
 1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=98
 1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=99
 1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=100
-
-
 
