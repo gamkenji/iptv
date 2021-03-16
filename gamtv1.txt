@@ -185,6 +185,7 @@ tvbs新聞,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=2
 三立inews,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=8
 東森新聞,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=9
 民視新聞,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=13
+TVBS综合,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=16
 三立台灣,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=21
 民視,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=26
 台視,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=27
@@ -205,6 +206,7 @@ tvbs精彩,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=66
 東森超視,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=80
 八大戲劇,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=81
 寰宇新聞,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=87
+TVBS综合,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=88
 星衛娛樂,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=89
 衛視電影,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=93
 緯來電影,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=96
@@ -255,6 +257,18 @@ HD電影,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=369
 龍祥時代,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=373
 FOX ACTION,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=385
 FOX MOIVE,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=387
+星卫电影,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=496
+ELTA影剧,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=500
+八大精彩,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=1024
+MOMO亲子,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=1126
+靖天育乐,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=1029
+Baby TV,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=1129
+Z频道,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=1130
+FOX 体育1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=1131
+FOX 体育2,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=1132
+Eleven sport1,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=1133
+ELTA综合,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=1137
+MOMO,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=1149
 
 0206mitv源,#genre#
 中視 HD,mitv://198.255.74.56:41196/600dbef00008c37a7bdc6b376b306ae7.ts
