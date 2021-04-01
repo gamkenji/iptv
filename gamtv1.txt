@@ -434,6 +434,7 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 靖天映畫台,http://61.58.60.230:9319/live/244.m3u8
 
 卡通台,#genre#
+小猪佩奇,http://cdn.chxjon.cn/iptv/QQ582185381/iqiyi.php?id=380221622
 靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
 
