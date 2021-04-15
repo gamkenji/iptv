@@ -483,7 +483,7 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
 
-18+,#genre#
+18+_711211,#genre#
 松視1台,tvbus://6j9sopzBQKaUPnGvkMH4tMfWbCj4BbuPcV9TFJ3GLqtS2TrMvHQrJj94B3wmL
 松視2台,tvbus://6iTNFjY8ZAGCf3rHAN6uVBmVN3Hwu2a9wHKjb46C4BNS5jkHXx92s6CwzzAmE
 潘多拉完美,tvbus://5zAeYwcSzgLveVCA5YtVJcn8C8rmZiXJdfrCJTyddtnQ2ovn1YPPKnEt2vAfL
