@@ -161,13 +161,9 @@ TVBS新闻台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14017&key=84
 TVBS新闻台2,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14017&key=928518675711
 TVBS综合台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14015&key=518675711720
 东森新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14001&key=84797b799ae18d1b
-寰宇新闻台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15005&key=84797b799ae18d1b
 三立新闻台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14021&key=84797b799ae18d1b
 年代新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12017&key=927518757120
-民视新闻台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8820&key=84797b799ae18d1b
-台视新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8822&key=84797b799ae18d1b
 非凡新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12024&key=84797b799ae18d1b
-中视新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8821&key=84797b799ae18d1b
 非凡新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12024&key=034186757117
 年代MUCH,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12016&key=84797b799ae18d1b
 年代新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12017&key=84797b799ae18d1b
@@ -176,7 +172,6 @@ TVBS综合台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14015&key=51
 东森电影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14002&key=84797b799ae18d1b
 东森洋片,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14003&key=84797b799ae18d1b
 纬来电影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14009&key=518675711720
-壹电影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15006&key=84797b799ae18d1b
 卫视电影台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13017&key=84797b799ae18d1b
 卫视洋片台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11002&key=84797b799ae18d1b
 华纳电影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11011&key=84797b799ae18d1b
@@ -198,14 +193,10 @@ Cbeebies卡通,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11018&key=8
 Baby TV,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11014&key=84797b799ae18d1b
 CN卡通频道,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13015&key=84797b799ae18d1b
 Disney卡通,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13019&key=84797b799ae18d1b
-Baby First,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8803&key=84797b799ae18d1b
 
 纬来体育,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14011&key=931867571172
 Eleven Sports Plus,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11006&key=84797b799ae18d1b
 Eleven Sports 2,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11007&key=84797b799ae18d1b
-FOX SPORTS,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12003&key=84797b799ae18d1b
-FOX SPORTS 2,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12004&key=84797b799ae18d1b
-FOX Sport 3,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11019&key=84797b799ae18d1b
 博斯魅力,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12009&key=7267857110
 博斯网球,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12010&key=8867572103
 博斯无限,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12011&key=0658642397
@@ -220,18 +211,8 @@ TVBS欢乐台2,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14016&key=8
 中天综合,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14019&key=84797b799ae18d1b
 东风卫视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12015&key=5352167571120
 民视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8813&key=84797b799ae18d1b
-公视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8817&key=84797b799ae18d1b
-公视台语,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8818&key=84797b799ae18d1b
-公视3,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8819&key=84797b799ae18d1b
-台视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8815&key=84797b799ae18d1b
-台视综合,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8828&key=84797b799ae18d1b
-华视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8816&key=84797b799ae18d1b
-华视新闻资讯,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8823&key=84797b799ae18d1b
 非凡商业,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12023&key=84797b799ae18d1b
 中视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8814&key=84797b799ae18d1b
-中视菁采,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8827&key=84797b799ae18d1b
-中视经典,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8826&key=84797b799ae18d1b
-台视财经,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8829&key=84797b799ae18d1b
 卫视中文台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13018&key=84797b799ae18d1b
 星卫娱乐台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11004&key=84797b799ae18d1b
 国家地理野生,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11008&key=84797b799ae18d1b
@@ -239,10 +220,8 @@ TVBS欢乐台2,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14016&key=8
 Life Time,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11017&key=84797b799ae18d1b
 亚洲旅游台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11020&key=84797b799ae18d1b
 动物星球,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13014&key=67711038219
-美食星球,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8804&key=18671811039
 探索亚洲,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13009&key=518675711793
 亚洲旅游台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11020&key=9640867571120
-EYE·旅游台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8807&key=519867571172
 FOX·综合台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12001&key=01867571186
 非凡商业,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12023&key=655951867571
 纬来综合,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14014&key=436596589723
@@ -519,7 +498,6 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 靖天歡樂,http://61.58.60.230:9319/live/201.m3u8
 靖洋戲劇,http://61.58.60.230:9319/live/203.m3u8
 靖天育樂,http://61.58.60.230:9319/live/204.m3u8
-靖天日本,http://61.58.60.230:9319/live/243.m3u8
 靖天國際,http://61.58.60.230:9319/live/205.m3u8
 居家頻道,http://61.58.60.230:9319/live/125.m3u8
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
@@ -528,7 +506,6 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 
 電影台,#genre#
 周星馳,http://139.196.144.110:80/huya11/11342412
-靖天映畫台,http://61.58.60.230:9319/live/244.m3u8
 
 卡通台,#genre#
 靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
