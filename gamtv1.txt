@@ -467,7 +467,6 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 周星馳,http://139.196.144.110:80/huya11/11342412
 
 卡通台,#genre#
-小豬佩奇,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1618951504/ei/8Oh-YMX1IYKFgQOPmJEY/ip/123.195.21.43/id/ni1CxDStx0Y.1/source/yt_live_broadcast/requiressl/yes/tx/24005209/txs/24005203%2C24005204%2C24005205%2C24005206%2C24005207%2C24005208%2C24005209/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAL-G6C5na2ACcJA5pTBC8xtyan-5T_rO9hFF_ocJddHwAiEAzOM5cU6eQh5yUEd_tNVatENulcShRyg7z39n8S4VxRY%3D/file/index.m3u8
 靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
 
@@ -556,7 +555,7 @@ Pink Erotic 8,http://91.212.150.248/PinkErotic8/index.m3u8
 
 測試,#genre#
 纬来体育,https://flv3948069e.live.126.net/live/9bfcea37668d82ba6f1c92df62641c69.flv#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14011&key=931867571172
-纬来育乐,https://flv3948069e.live.126.net/live/9bfcea37668d82ba6f1c92df62641c69.flv#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14010&key=389518675711
+纬来体育2,https://flv3948069e.live.126.net/live/9bfcea37668d82ba6f1c92df62641c69.flv#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14010&key=389518675711
 东森超视,https://flv3948069e.live.126.net/live/c1691cef1271edf64715a98a53d4a407.flv#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14008&key=055169867571
 中天新闻,https://flv3948069e.live.126.net/live/86ade2ff3775b3ff1016b357e7a4503e.flv#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14018&key=685885312106
 TVBS·欢乐台,https://flv3948069e.live.126.net/live/5e917e63a37235964fe0310037ca9fe9.flv#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14016&key=86757114205
