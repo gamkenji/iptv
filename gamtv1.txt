@@ -554,12 +554,3 @@ Pink Erotic 7,http://91.212.150.248/PinkErotic7/index.m3u8
 Pink Erotic 8,http://91.212.150.248/PinkErotic8/index.m3u8
 
 測試,#genre#
-纬来体育,https://flv3948069e.live.126.net/live/9bfcea37668d82ba6f1c92df62641c69.flv#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14011&key=931867571172
-纬来体育2,https://flv3948069e.live.126.net/live/9bfcea37668d82ba6f1c92df62641c69.flv#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14010&key=389518675711
-东森超视,https://flv3948069e.live.126.net/live/c1691cef1271edf64715a98a53d4a407.flv#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14008&key=055169867571
-中天新闻,https://flv3948069e.live.126.net/live/86ade2ff3775b3ff1016b357e7a4503e.flv#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14018&key=685885312106
-TVBS·欢乐台,https://flv3948069e.live.126.net/live/5e917e63a37235964fe0310037ca9fe9.flv#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14016&key=86757114205
-TVBS·新闻台,https://flv3948069e.live.126.net/live/94716019d540ad043e6b1381c5109f3c.flv#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14017&key=928518675711
-中视,https://flv3948069e.live.126.net/live/35b6789d91d545bb0d77b206d114cfa2.flv#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8814&key=920061867571
-华视,https://flv3948069e.live.126.net/live/0b6e9225af901972fcb48ed06dedb311.flv#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8816&key=318675718103
-台视,https://flv3948069e.live.126.net/live/3967b84ace7f62717b779cbb5a267696.flv#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8815&key=01867511039
