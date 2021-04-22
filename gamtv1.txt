@@ -494,7 +494,7 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 紅牛REDBULL TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 電影台,#genre#
-周星馳,https://bd.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.flv?wsSecret=44bc7776e3fa8abbf8304b632b15cab7&wsTime=60812faa&seqid=1619079086040&ctype=huya_webh5&ver=1&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&txyp=o:q6;&fs=gctex&u=0&t=100&sv=2104221417
+周星馳,http://bd.p2p.huya.com/huyalive/chat-1394575534_48_2_66.slice?wsSecret=9ed9d44badb0726837f6d2e259277104&wsTime=60813186&ex1=0&hxtype=0&baseIndex=6190663345101161&baseSubs=8&sub=5,7&maxSeq=6190663345101170&maxSeqTime=08:03:25.345&timeStamp2021-04-22_16:22:36.254&u=4284686328&t=100&sv=2104131447
 
 卡通台,#genre#
 靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
