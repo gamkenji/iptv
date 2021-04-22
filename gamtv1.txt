@@ -161,23 +161,39 @@ TVBS新闻台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14017&key=84
 TVBS新闻台2,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14017&key=928518675711
 TVBS综合台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14015&key=518675711720
 东森新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14001&key=84797b799ae18d1b
+东森财经新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14004&key=9551867571260
 三立新闻台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14021&key=84797b799ae18d1b
+年代新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12017&key=927518757120
+华视新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8823&key=518675711793
+民视新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8820&key=593467571720
+
+纬来体育,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14011&key=931867571172
 
 东森电影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14002&key=84797b799ae18d1b
 东森洋片,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14003&key=84797b799ae18d1b
 纬来电影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14009&key=518675711720
+龙翔时代,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12019&key=0035186571720
+美亚电影台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11001&key=52918675711039
+卫视电影台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13017&key=38657571039
 好萊塢電影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13016&key=935826757117
 龙翔时代,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12019&key=0035186571720
 美亚电影台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11001&key=84797b799ae18d1b
 HBO·強檔台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13002&key=53655658536
 HBO·综合台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13001&key=18675711039
 AXN,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13021&key=84797b799ae18d1b
+FOX·电影台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12002&key=98675714172
 
 東森幼幼,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14007&key=268458248092
+迪士尼卡通,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13019&key=433654563351
 
 TVBS欢乐台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14016&key=84797b799ae18d1b
 TVBS欢乐台2,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14016&key=86757114205
 緯來日本,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14013&key=595786757120
+民视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8813&key=92481867571
+台视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8815&key=01867511039
+中视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8814&key=920061867571
+华视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8816&key=318675718103
+公视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8817&key=641953175718
 东森综合,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14006&key=84797b799ae18d1b
 中天娱乐,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14020&key=84797b799ae18d1b
 中天综合,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14019&key=84797b799ae18d1b
