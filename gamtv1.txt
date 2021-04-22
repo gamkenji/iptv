@@ -77,7 +77,6 @@ Eleven Sports 2 b,tvbus://8hEdnTPJhq69QcwbkqZXsPZPLDoH8tu65sE2gVk77hRYrggwFL
 龙华电影,tvbus://6LwUVDeFb8Jsbakw6NkRVBFAA5KgeehuDN64LJKBiNRUVHAB7r42TWHiSTgsL
 龙华洋片,tvbus://6V8xXw3yHZrGVLyzCjzdVLntF2PJPXbWQFrFAsurARw4Y2U9jJXjyau8Xcnox
 美亚电影台,tvbus://6fXbnEVt2xue4aYZga9ER8ftVvU1tycYH4S4rqjBgsmGSu6WrAFcD8cQUVgiG
-CatchPlay电影台,tvbus://5KkNqoQ2jK5w7Z4RqFLiDppxWv29gctUDiNm2XTMwuZertsfjNARUPM9Ymix7
 HBO_HD1,tvbus://5opYE6ErJoLGfYc4vUN9WxYLLzrKu7PT6g6TKqDtkZHVxPZCrxTmrQTBNyigP
 HBO HD2,tvbus://5rd48zEsp3Yeo2SY2J78CL1ZstuhDRJrE8ubXXNLBejiMXZHgcTR7pbSdy2Ti
 HBO HD3,tvbus://6GFRVAcUsiqY67h8ePy4DnJvBS2L7onVFvB1g6HRCJZ3n57Ua2pBbENmboqd7
@@ -464,7 +463,7 @@ Z频道,mitv://147.135.39.171:9906/5e9b4b1200093ac2b4323ea63695594b.ts
 新聞台,#genre#
 TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 壹新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
-壹新聞台,http://stream.nexttv.com.tw/n001/playlist.m3u8
+壹新聞台2,http://stream.nexttv.com.tw/n001/playlist.m3u8
 東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
 寰宇新闻,http://seb.sason.top/sc/hyxw.m3u8
 三立Live新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
@@ -495,7 +494,7 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 紅牛REDBULL TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 電影台,#genre#
-周星馳,http://139.196.144.110:80/huya11/11342412
+周星馳,https://bd.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.flv?wsSecret=44bc7776e3fa8abbf8304b632b15cab7&wsTime=60812faa&seqid=1619079086040&ctype=huya_webh5&ver=1&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&txyp=o:q6;&fs=gctex&u=0&t=100&sv=2104221417
 
 卡通台,#genre#
 靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
@@ -585,13 +584,4 @@ Pink Erotic 7,http://91.212.150.248/PinkErotic7/index.m3u8
 Pink Erotic 8,http://91.212.150.248/PinkErotic8/index.m3u8
 
 測試,#genre#
-TVBS新聞,https://www.youtube.com/watch?v=A4FbB8UhNRs
-民視新聞,https://www.youtube.com/watch?v=XxJKnDLYZz4
-三立LIVE新聞,https://www.youtube.com/watch?v=4ZVUmEUFwaY
-三立iNEWS新聞,https://www.youtube.com/watch?v=MYwrZeIsRWU
-中天新聞,https://www.youtube.com/watch?v=9pWXAEZ5NLs
-東森新聞,https://www.youtube.com/watch?v=RaIJ767Bj_M
-東森財經新聞,https://www.youtube.com/watch?v=68lLQ7hkdzU
-華視新聞,https://www.youtube.com/watch?v=TL8mmew3jb8
-中視新聞,https://www.youtube.com/watch?v=wxQcIb8zcPA
-台視新聞,https://www.youtube.com/watch?v=NbjI0cARzjQ
+
