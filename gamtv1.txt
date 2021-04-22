@@ -167,8 +167,6 @@ TVBS综合台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14015&key=51
 华视新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8823&key=518675711793
 民视新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8820&key=593467571720
 
-纬来体育,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14011&key=931867571172
-
 东森电影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14002&key=84797b799ae18d1b
 东森洋片,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14003&key=84797b799ae18d1b
 纬来电影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14009&key=518675711720
@@ -571,3 +569,13 @@ Pink Erotic 7,http://91.212.150.248/PinkErotic7/index.m3u8
 Pink Erotic 8,http://91.212.150.248/PinkErotic8/index.m3u8
 
 測試,#genre#
+TVBS新聞,https://www.youtube.com/watch?v=A4FbB8UhNRs
+民視新聞,https://www.youtube.com/watch?v=XxJKnDLYZz4
+三立LIVE新聞,https://www.youtube.com/watch?v=4ZVUmEUFwaY
+三立iNEWS新聞,https://www.youtube.com/watch?v=MYwrZeIsRWU
+中天新聞,https://www.youtube.com/watch?v=9pWXAEZ5NLs
+東森新聞,https://www.youtube.com/watch?v=RaIJ767Bj_M
+東森財經新聞,https://www.youtube.com/watch?v=68lLQ7hkdzU
+華視新聞,https://www.youtube.com/watch?v=TL8mmew3jb8
+中視新聞,https://www.youtube.com/watch?v=wxQcIb8zcPA
+台視新聞,https://www.youtube.com/watch?v=NbjI0cARzjQ
