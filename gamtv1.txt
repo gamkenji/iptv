@@ -494,9 +494,18 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 紅牛REDBULL TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 電影台,#genre#
-
+周星驰电影,http://kuqq.tk/00/huya.php?id=19105261
+林正英电影,http://kuqq.tk/00/huya.php?id=11342421
+成龙电影,http://kuqq.tk/00/huya.php?id=11342386
+李连杰电影,http://kuqq.tk/00/huya.php?id=11342390
+周润发电影,http://kuqq.tk/00/huya.php?id=11342387
+刘德华电影,http://kuqq.tk/00/huya.php?id=11342424
+甄子丹电影,http://kuqq.tk/00/huya.php?id=11352935
+吴京电影,http://kuqq.tk/00/huya.php?id=11602045
+洪金宝电影,http://kuqq.tk/00/huya.php?id=11342427
 
 卡通台,#genre#
+小猪佩奇,http://221.178.100.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c16_lb_xiaozhupeiqi_720p_t5/c16_lb_xiaozhupeiqi_720p_t5.m3u8
 靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
 
