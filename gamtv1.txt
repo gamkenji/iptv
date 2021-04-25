@@ -167,16 +167,18 @@ TVBS综合台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14015&key=51
 华视新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8823&key=518675711793
 民视新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8820&key=593467571720
 
+星衛電影台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11003&key=84797b799ae18d1b
 东森电影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14002&key=84797b799ae18d1b
 东森洋片,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14003&key=84797b799ae18d1b
+衛視电影台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13017&key=38657571039
+衛視洋片台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11002&key=84797b799ae18d1b
 纬来电影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14009&key=518675711720
 纬来电影2,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14009&key=84797b799ae18d1b
 龙翔时代,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12019&key=0035186571720
-美亚电影台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11001&key=52918675711039
-卫视电影台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13017&key=38657571039
-好萊塢電影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13016&key=935826757117
-龙翔时代,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12019&key=0035186571720
 美亚电影台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11001&key=84797b799ae18d1b
+美亚电影台2,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11001&key=52918675711039
+華納電影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11011&key=84797b799ae18d1b
+好萊塢電影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13016&key=935826757117
 HBO·強檔台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13002&key=53655658536
 HBO·综合台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13001&key=18675711039
 HBO,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13001&key=84797b799ae18d1b
@@ -186,13 +188,17 @@ HBO signature,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13004&key=84
 AXN,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13021&key=84797b799ae18d1b
 FOX·电影台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12002&key=98675714172
 
-纬来體育,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14014&key=436596589723
+緯來體育,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14014&key=436596589723
+緯來體育2,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14011&key=84797b799ae18d1b
 Eleven Sports Plus,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11006&key=84797b799ae18d1b
 Eleven Sports 2,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11007&key=84797b799ae18d1b
 
 MOMO亲子台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12021&key=84797b799ae18d1b
 東森幼幼,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14007&key=268458248092
 東森幼幼2,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14007&key=84797b799ae18d1b
+Cbeebies卡通,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11018&key=84797b799ae18d1b
+Baby TV,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11014&key=84797b799ae18d1b7b799ae18d1b
+Baby First,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8803&key=84797b799ae18d1b
 迪士尼卡通,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13019&key=433654563351
 CN卡通频道,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13015&key=84797b799ae18d1b
 Disney卡通,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13019&key=84797b799ae18d1b
