@@ -188,8 +188,7 @@ HBO signature,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13004&key=84
 AXN,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13021&key=84797b799ae18d1b
 FOX·电影台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12002&key=98675714172
 
-緯來體育,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14014&key=436596589723
-緯來體育2,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14011&key=84797b799ae18d1b
+緯來體育,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14011&key=84797b799ae18d1b
 Eleven Sports Plus,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11006&key=84797b799ae18d1b
 Eleven Sports 2,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11007&key=84797b799ae18d1b
 
@@ -220,6 +219,7 @@ TVBS欢乐台2,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14016&key=8
 中视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8814&key=84797b799ae18d1b
 国家地理野生,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11008&key=84797b799ae18d1b
 非凡商业,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12023&key=655951867571
+緯來綜合,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14014&key=436596589723
 纬来育乐,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14010&key=389518675711
 纬来戏剧,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14012&key=5193576867571
 国家地理野生,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11008&key=6545668553823
