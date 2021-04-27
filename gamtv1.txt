@@ -544,6 +544,32 @@ Latina,tvbus://6HdxNYSHg9jwd4o6JZpYt1UjmvngTJ4DG1F25u8t9dRQJQ3JsM68qW3tJ1ggG
 HD,tvbus://5sKux8SFKgzeiQimkhPNZfUSfC5GwCgtcfKEB5RTXsUGDRD3aYz6UNhV61vZT
 Hardcore,tvbus://6hu2htv7ndBFx99NqxEkYvswHPBo1PFxtGMbc1tiMDbXkLHZvyKsnkCmpXGfk
 
+松視1臺,http://8.crtv1.ml/hstv/crtv.php?id=402
+松視2臺,http://8.crtv1.ml/hstv/crtv.php?id=404
+惊艳电影台Amazing HD,http://8.crtv1.ml/hstv/crtv.php?id=409
+香蕉台Banana,http://8.crtv1.ml/hstv/crtv.php?id=408
+K頻道,http://8.crtv1.ml/hstv/crtv.php?id=406
+Happy頻道,http://8.crtv1.ml/hstv/crtv.php?id=412
+HOT,http://8.crtv1.ml/hstv/crtv.php?id=407
+Star潘多拉粉红,http://8.crtv1.ml/hstv/crtv.php?id=411
+LEO TV HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
+潘多拉玩美Pandora Pink,http://8.crtv1.ml/hstv/crtv.php?id=410
+彩虹e台Rainbow Channel,http://8.crtv1.ml/hstv/crtv.php?id=405
+彩虹電影Rainbow Movies,http://8.crtv1.ml/hstv/crtv.php?id=413
+一本道Ipondo TV,http://8.crtv1.ml/hstv/crtv.php?id=414
+二本道Girl Paradise,http://8.crtv1.ml/hstv/crtv.php?id=415
+東京熱,http://8.crtv1.ml/hstv/crtv.php?id=416
+Hustler HD,http://8.crtv1.ml/hstv/crtv.php?id=451
+Redlight HD,http://8.crtv1.ml/hstv/crtv.php?id=452
+Private TV,http://8.crtv1.ml/hstv/crtv.php?id=453
+Docel HD,http://8.crtv1.ml/hstv/crtv.php?id=454
+Vivid ed HD,http://8.crtv1.ml/hstv/crtv.php?id=455
+Eox HD,http://8.crtv1.ml/hstv/crtv.php?id=456
+Supe One HD,http://8.crtv1.ml/hstv/crtv.php?id=457
+Babes TV HD,http://8.crtv1.ml/hstv/crtv.php?id=458
+SEX ATION HD,http://8.crtv1.ml/hstv/crtv.php?id=459
+Passie,http://8.crtv1.ml/hstv/crtv.php?id=461
+SCT Classic,http://8.crtv1.ml/hstv/crtv.php?id=462
 松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8
 松视2欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
 松视2欧美版,http://cdn.adultiptv.net/interracial.m3u8
