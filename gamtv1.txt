@@ -156,73 +156,6 @@ EYE_TV戏剧台,tvbus://5WmNR3P9mdwzYuLBr8ecBLi9m8V7DjTJfm4SgM4tmqQqr7RMiFASqTS8
 探索_Discovery_Asia,tvbus://5VBcbUCJXNi2HkYD1f5MXD6QpZjqWst6kkytcp9xh6oFUoWRwm7FBsQzmat5s
 韩国娱乐台KMTV,tvbus://5NW3FFM1tRx9FiZW5KWX2kf6NDLwntDiFnjqnuPKqvqCczeGm7vk5FQX4tvto
 
-0405台灣源,#genre#
-TVBS新闻台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14017&key=84797b799ae18d1b
-TVBS新闻台2,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14017&key=928518675711
-TVBS综合台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14015&key=518675711720
-东森新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14001&key=84797b799ae18d1b
-东森财经新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14004&key=9551867571260
-三立新闻台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14021&key=84797b799ae18d1b
-年代新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12017&key=927518757120
-华视新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8823&key=518675711793
-民视新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8820&key=593467571720
-
-星衛電影台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11003&key=84797b799ae18d1b
-东森电影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14002&key=84797b799ae18d1b
-东森洋片,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14003&key=84797b799ae18d1b
-衛視电影台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13017&key=38657571039
-衛視洋片台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11002&key=84797b799ae18d1b
-纬来电影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14009&key=518675711720
-纬来电影2,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14009&key=84797b799ae18d1b
-龙翔时代,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12019&key=0035186571720
-美亚电影台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11001&key=84797b799ae18d1b
-美亚电影台2,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11001&key=52918675711039
-華納電影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11011&key=84797b799ae18d1b
-好萊塢電影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13016&key=935826757117
-HBO·強檔台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13002&key=53655658536
-HBO·综合台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13001&key=18675711039
-HBO,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13001&key=84797b799ae18d1b
-HBO HITS,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13002&key=84797b799ae18d1b
-HBO family,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13003&key=84797b799ae18d1b
-HBO signature,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13004&key=84797b799ae18d1b
-AXN,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13021&key=84797b799ae18d1b
-FOX·电影台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12002&key=98675714172
-
-緯來體育,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14011&key=84797b799ae18d1b
-Eleven Sports Plus,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11006&key=84797b799ae18d1b
-Eleven Sports 2,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11007&key=84797b799ae18d1b
-
-MOMO亲子台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12021&key=84797b799ae18d1b
-東森幼幼,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14007&key=268458248092
-東森幼幼2,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14007&key=84797b799ae18d1b
-Cbeebies卡通,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11018&key=84797b799ae18d1b
-Baby First,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8803&key=84797b799ae18d1b
-迪士尼卡通,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13019&key=433654563351
-CN卡通频道,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13015&key=84797b799ae18d1b
-Disney卡通,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13019&key=84797b799ae18d1b
-
-TVBS欢乐台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14016&key=84797b799ae18d1b
-TVBS欢乐台2,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14016&key=86757114205
-緯來日本,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14013&key=595786757120
-緯來日本2,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14013&key=84797b799ae18d1b
-民视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8813&key=92481867571
-台视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8815&key=01867511039
-中视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8814&key=920061867571
-华视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8816&key=318675718103
-公视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8817&key=641953175718
-东森综合,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14006&key=84797b799ae18d1b
-中天娱乐,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14020&key=84797b799ae18d1b
-中天综合,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14019&key=84797b799ae18d1b
-民视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8813&key=84797b799ae18d1b
-非凡商业,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12023&key=84797b799ae18d1b
-中视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8814&key=84797b799ae18d1b
-国家地理野生,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11008&key=84797b799ae18d1b
-非凡商业,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12023&key=655951867571
-緯來綜合,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14014&key=436596589723
-纬来育乐,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14010&key=389518675711
-纬来戏剧,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14012&key=5193576867571
-国家地理野生,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11008&key=6545668553823
-
 0129mitv源,#genre#
 公視,mitv://ns2.hellotvvod.com:9906/5fc89eac000ec1d1514274296f4d5637.ts
 八大第一台,mitv://ns2.hellotvvod.com:9906/5fc8a0420006e4ca5148a4155c5a661f.ts
@@ -536,32 +469,7 @@ Latina,tvbus://6HdxNYSHg9jwd4o6JZpYt1UjmvngTJ4DG1F25u8t9dRQJQ3JsM68qW3tJ1ggG
 HD,tvbus://5sKux8SFKgzeiQimkhPNZfUSfC5GwCgtcfKEB5RTXsUGDRD3aYz6UNhV61vZT
 Hardcore,tvbus://6hu2htv7ndBFx99NqxEkYvswHPBo1PFxtGMbc1tiMDbXkLHZvyKsnkCmpXGfk
 
-松視1臺,http://8.crtv1.ml/hstv/crtv.php?id=402
-松視2臺,http://8.crtv1.ml/hstv/crtv.php?id=404
-惊艳电影台Amazing HD,http://8.crtv1.ml/hstv/crtv.php?id=409
-香蕉台Banana,http://8.crtv1.ml/hstv/crtv.php?id=408
-K頻道,http://8.crtv1.ml/hstv/crtv.php?id=406
-Happy頻道,http://8.crtv1.ml/hstv/crtv.php?id=412
-HOT,http://8.crtv1.ml/hstv/crtv.php?id=407
-Star潘多拉粉红,http://8.crtv1.ml/hstv/crtv.php?id=411
 LEO TV HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
-潘多拉玩美Pandora Pink,http://8.crtv1.ml/hstv/crtv.php?id=410
-彩虹e台Rainbow Channel,http://8.crtv1.ml/hstv/crtv.php?id=405
-彩虹電影Rainbow Movies,http://8.crtv1.ml/hstv/crtv.php?id=413
-一本道Ipondo TV,http://8.crtv1.ml/hstv/crtv.php?id=414
-二本道Girl Paradise,http://8.crtv1.ml/hstv/crtv.php?id=415
-東京熱,http://8.crtv1.ml/hstv/crtv.php?id=416
-Hustler HD,http://8.crtv1.ml/hstv/crtv.php?id=451
-Redlight HD,http://8.crtv1.ml/hstv/crtv.php?id=452
-Private TV,http://8.crtv1.ml/hstv/crtv.php?id=453
-Docel HD,http://8.crtv1.ml/hstv/crtv.php?id=454
-Vivid ed HD,http://8.crtv1.ml/hstv/crtv.php?id=455
-Eox HD,http://8.crtv1.ml/hstv/crtv.php?id=456
-Supe One HD,http://8.crtv1.ml/hstv/crtv.php?id=457
-Babes TV HD,http://8.crtv1.ml/hstv/crtv.php?id=458
-SEX ATION HD,http://8.crtv1.ml/hstv/crtv.php?id=459
-Passie,http://8.crtv1.ml/hstv/crtv.php?id=461
-SCT Classic,http://8.crtv1.ml/hstv/crtv.php?id=462
 松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8
 松视2欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
 松视2欧美版,http://cdn.adultiptv.net/interracial.m3u8
@@ -600,7 +508,6 @@ Latina,http://cdn.adultiptv.net/latina.m3u8
 Lesbian,http://cdn.adultiptv.net/lesbian.m3u8
 Live Cams,http://cdn.adultiptv.net/livecams.m3u8
 Rough,http://cdn.adultiptv.net/rough.m3u8
-Candy HD,http://185.52.77.67:8080/Candy/index.m3u8
 Shelksd,http://194.190.78.91:8080/shelksd/index.m3u8
 Shelk HD,http://194.190.78.91:8080/shelk/index.m3u8
 RUsskayanoch,http://93.189.224.117:9030/russkayanoch
@@ -616,107 +523,3 @@ Pink Erotic 7,http://91.212.150.248/PinkErotic7/index.m3u8
 Pink Erotic 8,http://91.212.150.248/PinkErotic8/index.m3u8
 
 測試,#genre#
-MTV音乐,http://154.90.1.169/hstv.php?id=106
-幸福空間居家,http://154.90.1.169/hstv.php?id=61
-原住民電視,http://154.90.1.169/hstv.php?id=95
-客家電視,http://154.90.1.169/hstv.php?id=76
-大愛一臺,http://154.90.1.169/hstv.php?id=11
-番薯電視,http://154.90.1.169/hstv.php?id=29
-年代much,http://154.90.1.169/hstv.php?id=1359
-信吉電視,http://154.90.1.169/hstv.php?id=422
-國興衛視,http://154.90.1.169/hstv.php?id=65
-寰宇綜合,http://154.90.1.169/hstv.php?id=190
-星衛娛樂,http://154.90.1.169/hstv.php?id=89
-韓國娛樂台,http://154.90.1.169/hstv.php?id=73
-ELTA娛樂台,http://154.90.1.169/hstv.php?id=351
-豬哥亮歌廳秀,http://154.90.1.169/hstv.php?id=75
-高點綜合,http://154.90.1.169/hstv.php?id=99
-華藝綜合,http://154.90.1.169/hstv.php?id=310
-臺視綜合,http://154.90.1.169/hstv.php?id=309
-壹電視綜合,http://154.90.1.169/hstv.php?id=305
-衛視中文,http://154.90.1.169/hstv.php?id=342
-龍華日韓,http://154.90.1.169/hstv.php?id=382
-龍華偶像,http://154.90.1.169/hstv.php?id=347
-民視台灣,http://154.90.1.169/hstv.php?id=36
-民視第一台,http://154.90.1.169/hstv.php?id=34
-民視綜藝,http://154.90.1.169/hstv.php?id=98
-中視菁采,http://154.90.1.169/hstv.php?id=74
-中視經典,http://154.90.1.169/hstv.php?id=185
-靖天綜合,http://154.90.1.169/hstv.php?id=308
-靖天資訊,http://154.90.1.169/hstv.php?id=49
-靖天歡樂,http://154.90.1.169/hstv.php?id=51
-靖天日本,http://154.90.1.169/hstv.php?id=108
-靖天育樂,http://154.90.1.169/hstv.php?id=1029
-靖天國際,http://154.90.1.169/hstv.php?id=345
-中天亞洲,http://154.90.1.169/hstv.php?id=322
-中天娛樂,http://154.90.1.169/hstv.php?id=324
-中天綜合,http://154.90.1.169/hstv.php?id=54
-東森購物2,http://154.90.1.169/hstv.php?id=1156
-東森購物1,http://154.90.1.169/hstv.php?id=1155
-東森超視,http://154.90.1.169/hstv.php?id=80
-東森綜合,http://154.90.1.169/hstv.php?id=372
-三立綜合,http://154.90.1.169/hstv.php?id=315
-三立都會,http://154.90.1.169/hstv.php?id=1001
-三立都會,http://154.90.1.169/hstv.php?id=38
-三立臺灣,http://154.90.1.169/hstv.php?id=21
-八大精彩,http://154.90.1.169/hstv.php?id=1024
-八大綜合,http://154.90.1.169/hstv.php?id=90
-八大綜合,http://154.90.1.169/hstv.php?id=325
-八大第一,http://154.90.1.169/hstv.php?id=318
-八大娱乐,http://154.90.1.169/hstv.php?id=105
-緯來日本,http://154.90.1.169/hstv.php?id=46
-緯來日本,http://154.90.1.169/hstv.php?id=337
-緯來育樂,http://154.90.1.169/hstv.php?id=312
-緯來育樂,http://154.90.1.169/hstv.php?id=338
-緯來綜合,http://154.90.1.169/hstv.php?id=340
-好消息2,http://154.90.1.169/hstv.php?id=363
-好消息,http://154.90.1.169/hstv.php?id=104
-TVBS精采,http://154.90.1.169/hstv.php?id=66
-TVBS歡樂,http://154.90.1.169/hstv.php?id=40
-TVBS綜合,http://154.90.1.169/hstv.php?id=16
-TVBS,http://154.90.1.169/hstv.php?id=88
-ELTA綜合,http://154.90.1.169/hstv.php?id=1137
-JET綜合,http://154.90.1.169/hstv.php?id=41
-VTV4,http://154.90.1.169/hstv.php?id=341
-三立LIVE新聞,http://154.90.1.169/hstv.php?id=1008
-三立LIVE新聞,http://154.90.1.169/hstv.php?id=4
-壹電視新聞,http://154.90.1.169/hstv.php?id=303
-第1商業,http://154.90.1.169/hstv.php?id=186
-寰宇臺灣,http://154.90.1.169/hstv.php?id=87
-寰宇新聞,http://154.90.1.169/hstv.php?id=304
-寰宇財經,http://154.90.1.169/hstv.php?id=320
-非凡新聞,http://154.90.1.169/hstv.php?id=314
-非凡商業,http://154.90.1.169/hstv.php?id=187
-年代新聞,http://154.90.1.169/hstv.php?id=1099
-年代新聞,http://154.90.1.169/hstv.php?id=236
-東森財經,http://154.90.1.169/hstv.php?id=1018
-東森財經,http://154.90.1.169/hstv.php?id=12
-東森新聞,http://154.90.1.169/hstv.php?id=1016
-東森新聞,http://154.90.1.169/hstv.php?id=9
-中視新聞,http://154.90.1.169/hstv.php?id=1000
-中視新聞,http://154.90.1.169/hstv.php?id=7
-台視新聞,http://154.90.1.169/hstv.php?id=1006
-台視新聞,http://154.90.1.169/hstv.php?id=1
-華視新聞,http://154.90.1.169/hstv.php?id=1012
-華視新聞,http://154.90.1.169/hstv.php?id=6
-民視新聞,http://154.90.1.169/hstv.php?id=317
-民視新聞,http://154.90.1.169/hstv.php?id=13
-中天新聞,http://154.90.1.169/hstv.php?id=1002
-中天新聞,http://154.90.1.169/hstv.php?id=3
-TVBS新聞,http://154.90.1.169/hstv.php?id=1004
-TVBS新聞,http://154.90.1.169/hstv.php?id=2
-iNEWS,http://154.90.1.169/hstv.php?id=1014
-iNEWS,http://154.90.1.169/hstv.php?id=8
-公視台語,http://154.90.1.169/hstv.php?id=58
-公視三台,http://154.90.1.169/hstv.php?id=1340
-公視,http://154.90.1.169/hstv.php?id=361
-公視,http://154.90.1.169/hstv.php?id=86
-華視,http://154.90.1.169/hstv.php?id=327
-華視,http://154.90.1.169/hstv.php?id=32
-中視,http://154.90.1.169/hstv.php?id=333
-中視,http://154.90.1.169/hstv.php?id=28
-台視,http://154.90.1.169/hstv.php?id=326
-台視,http://154.90.1.169/hstv.php?id=27
-民視,http://154.90.1.169/hstv.php?id=336
-民視,http://154.90.1.169/hstv.php?id=26
-
