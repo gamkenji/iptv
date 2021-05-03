@@ -521,6 +521,8 @@ Pink Erotic 7,http://91.212.150.248/PinkErotic7/index.m3u8
 Pink Erotic 8,http://91.212.150.248/PinkErotic8/index.m3u8
 
 測試,#genre#
+TVBS新闻,http://flv3948069e.live.126.net/live/twtvbs_MTYyMDA1NTUwNg.flv
+緯來日本,https://flv3948069e.live.126.net:443/live/c82dd432c85e5b60594eb3b01978fbfb.flv
 TVBS新闻台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14017&key=84797b799ae18d1b
 星衛電影台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11003&key=84797b799ae18d1b
 
