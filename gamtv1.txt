@@ -469,6 +469,19 @@ Latina,tvbus://6HdxNYSHg9jwd4o6JZpYt1UjmvngTJ4DG1F25u8t9dRQJQ3JsM68qW3tJ1ggG
 HD,tvbus://5sKux8SFKgzeiQimkhPNZfUSfC5GwCgtcfKEB5RTXsUGDRD3aYz6UNhV61vZT
 Hardcore,tvbus://6hu2htv7ndBFx99NqxEkYvswHPBo1PFxtGMbc1tiMDbXkLHZvyKsnkCmpXGfk
 
+松视1,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+松视1,http://stream.zhystv.com/yset/sd/live.m3u8
+松视1,http://stream.zhystv.com/ysyt/sd/live.m3u8
+松视3,http://stream.ysbtv.net/1/sd/live.m3u8
+HAPPY,http://live-dft-hls-yf.jstv.com/live/yixing_xw/online.m3u8
+潘多拉完美,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+HOT,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
+HOT,https://gcalic.v.myalicdn.com/gc/hsptgz_1/index.m3u8?contentid=2820180516001
+一本道 HD,http://stream.zzgd.tv/3/sd/live.m3u8
+NYX MEDIA,http://stream.zzgd.tv/1/sd/live.m3u8
+Sex31HD,http://202.168.164.38:8083/videos/live/19/27/QEQXMtU5AUpwo/QEQXMtU5AUpwo.M3U8
+7ppav HD,http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
+6ppav HD,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
 LEO TV HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8
 松视2欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
@@ -517,9 +530,35 @@ Pink Erotic,http://91.212.150.248/PinkErotic1/index.m3u8
 Pink Erotic 2,http://91.212.150.248/PinkErotic2/index.m3u8
 Pink Erotic 3,http://91.212.150.248/PinkErotic3/index.m3u8
 Pink Erotic 4,http://91.212.150.248/PinkErotic4/index.m3u8
-Pink Erotic 5,http://91.212.150.248/PinkErotic5/index.m3u8
-Pink Erotic 6,http://91.212.150.248/PinkErotic6/index.m3u8
 Pink Erotic 7,http://91.212.150.248/PinkErotic7/index.m3u8
 Pink Erotic 8,http://91.212.150.248/PinkErotic8/index.m3u8
 
 測試,#genre#
+TVBS新闻台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14017&key=84797b799ae18d1b
+星衛電影台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11003&key=84797b799ae18d1b
+TVBS?精彩台,rtmp://58.200.131.2:1935/livetv/cqtv
+中天新聞,rtmp://58.200.131.2:1935/livetv/dftv
+TVBS新聞,rtmp://58.200.131.2:1935/livetv/dntv
+非凡新聞,rtmp://58.200.131.2:1935/livetv/gdtv
+衛視電影,rtmp://58.200.131.2:1935/livetv/gxtv
+東森新聞,rtmp://58.200.131.2:1935/livetv/gstv
+中天亞洲,rtmp://58.200.131.2:1935/livetv/hbtv
+亞洲旅遊,rtmp://58.200.131.2:1935/livetv/hunantv
+美亞電影,rtmp://58.200.131.2:1935/livetv/hebtv
+東森幼幼,rtmp://58.200.131.2:1935/livetv/hntv
+東森電影,rtmp://58.200.131.2:1935/livetv/hljtv
+東森戲劇,rtmp://58.200.131.2:1935/livetv/jstv
+東森超視,rtmp://58.200.131.2:1935/livetv/jxtv
+緯來電影,rtmp://58.200.131.2:1935/livetv/jltv
+緯來戲劇,rtmp://58.200.131.2:1935/livetv/lntv
+國家地理野生,rtmp://58.200.131.2:1935/livetv/nxtv
+好萊塢電影,rtmp://58.200.131.2:1935/livetv/qhtv
+MOMO親子,rtmp://58.200.131.2:1935/livetv/sctv
+八大戲劇,rtmp://58.200.131.2:1935/livetv/sxrtv
+JET綜合,rtmp://58.200.131.2:1935/livetv/sdetv
+霹靂台灣,rtmp://58.200.131.2:1935/livetv/cetv1
+ELTA體育3,rtmp://58.200.131.2:1935/livetv/cetv3
+東森綜合,rtmp://58.200.131.2:1935/livetv/cetv4
+
+纬来日本台,mitv://51.79.41.138:18912/5b140916000c981817d11c797bae1219.ts.ts
+东森洋片台,mitv://51.79.41.138:18912/5b140953000cd4a817d20ad057051e23.ts.ts
