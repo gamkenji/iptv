@@ -469,19 +469,6 @@ Latina,tvbus://6HdxNYSHg9jwd4o6JZpYt1UjmvngTJ4DG1F25u8t9dRQJQ3JsM68qW3tJ1ggG
 HD,tvbus://5sKux8SFKgzeiQimkhPNZfUSfC5GwCgtcfKEB5RTXsUGDRD3aYz6UNhV61vZT
 Hardcore,tvbus://6hu2htv7ndBFx99NqxEkYvswHPBo1PFxtGMbc1tiMDbXkLHZvyKsnkCmpXGfk
 
-松视1,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
-松视1,http://stream.zhystv.com/yset/sd/live.m3u8
-松视1,http://stream.zhystv.com/ysyt/sd/live.m3u8
-松视3,http://stream.ysbtv.net/1/sd/live.m3u8
-HAPPY,http://live-dft-hls-yf.jstv.com/live/yixing_xw/online.m3u8
-潘多拉完美,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
-HOT,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
-HOT,https://gcalic.v.myalicdn.com/gc/hsptgz_1/index.m3u8?contentid=2820180516001
-一本道 HD,http://stream.zzgd.tv/3/sd/live.m3u8
-NYX MEDIA,http://stream.zzgd.tv/1/sd/live.m3u8
-Sex31HD,http://202.168.164.38:8083/videos/live/19/27/QEQXMtU5AUpwo/QEQXMtU5AUpwo.M3U8
-7ppav HD,http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
-6ppav HD,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
 LEO TV HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8
 松视2欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
