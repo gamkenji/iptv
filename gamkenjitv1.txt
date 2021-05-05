@@ -432,7 +432,15 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 紅牛REDBULL TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 電影台,#genre#
-
+周星驰,http://tv.rdys888.top/bak/proxy/youku.php?id=8021901
+周星驰_虎牙,https://tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.m3u8?wsSecret=e23a5e734f53c45d0cf9fe9c531eb8a2&wsTime=607ec97f&u=0&seqid=16188354769981876&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Aq6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
+李连杰,http://tv.rdys888.top/bak/proxy/youku.php?id=8021912
+成龙,http://tv.rdys888.top/bak/proxy/youku.php?id=8021903
+刘德华,http://tv.rdys888.top/bak/proxy/youku.php?id=8021902
+张学友,http://tv.rdys888.top/bak/proxy/youku.php?id=8027929
+黎明,http://tv.rdys888.top/bak/proxy/youku.php?id=8028239
+郭富城,http://tv.rdys888.top/bak/proxy/youku.php?id=8027876
+谢霆锋,http://tv.rdys888.top/bak/proxy/youku.php?id=8020518
 
 卡通台,#genre#
 小猪佩奇,http://221.178.100.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c16_lb_xiaozhupeiqi_720p_t5/c16_lb_xiaozhupeiqi_720p_t5.m3u8
@@ -521,8 +529,16 @@ Pink Erotic 7,http://91.212.150.248/PinkErotic7/index.m3u8
 Pink Erotic 8,http://91.212.150.248/PinkErotic8/index.m3u8
 
 測試,#genre#
-TVBS新闻,http://flv3948069e.live.126.net/live/twtvbs_MTYyMDA1NTUwNg.flv
-緯來日本,https://flv3948069e.live.126.net:443/live/c82dd432c85e5b60594eb3b01978fbfb.flv
-TVBS新闻台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14017&key=84797b799ae18d1b
-星衛電影台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11003&key=84797b799ae18d1b
+中视,https://flv3948069e.live.126.net/live/1fb9c73c0755b22d0fa2dd55dbf59611.flv
+华视,https://flv3948069e.live.126.net/live/3978f9db9189a64271342eac430cb208.flv
+台视,https://flv3948069e.live.126.net/live/39fc5fcd77bd164ea686f435753eb4bc.flv
+民视,https://flv3948069e.live.126.net/live/514541067156e1ee23a30c4a5820b6e9.flv
+TVBS·欢乐台,https://flv3948069e.live.126.net/live/f83f07d69492ba2497f9f5213ff207e0.flv
+TVBS·新闻台,https://flv3948069e.live.126.net/live/ed3ef0f2944eedee0017acdd0000dac6.flv
+中天新闻,https://flv3948069e.live.126.net/live/abdc20138d943db178288ab9ec833a25.flv
+中视新闻,https://flv3948069e.live.126.net/live/c5f1ec91c03034e4ae64f22c32441c6a.flv
+纬来体育,https://flv3948069e.live.126.net/live/39b47fdfd08ef9a4c95eeceeb47c0fe8.flv
+纬来育乐,https://flv3948069e.live.126.net/live/75e4285c69e9a4e4ab673433ea7a41c2.flv
+纬来日本,https://flv3948069e.live.126.net/live/f6cb05a412a19e23e6e7de384e935deb.flv
+东森超视,https://flv3948069e.live.126.net/live/65591fa15e244a011e2925ec9ff5b42a.flv
 
