@@ -432,8 +432,9 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 紅牛REDBULL TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 電影台,#genre#
-周星驰_虎牙,https://tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.m3u8?wsSecret=e23a5e734f53c45d0cf9fe9c531eb8a2&wsTime=607ec97f&u=0&seqid=16188354769981876&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Aq6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
-周星驰电影,http://kuqq.tk/00/huya.php?id=19105261
+周星驰电影1,http://auney.gearhostpreview.com/huya.php?id=11342412
+周星驰电影2,https://tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.m3u8?wsSecret=e23a5e734f53c45d0cf9fe9c531eb8a2&wsTime=607ec97f&u=0&seqid=16188354769981876&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Aq6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
+周星驰电影3,http://kuqq.tk/00/huya.php?id=19105261
 
 卡通台,#genre#
 小猪佩奇,http://221.178.100.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c16_lb_xiaozhupeiqi_720p_t5/c16_lb_xiaozhupeiqi_720p_t5.m3u8
