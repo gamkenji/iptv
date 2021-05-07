@@ -435,9 +435,20 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 周星驰电影1,http://auney.gearhostpreview.com/huya.php?id=11342412
 周星驰电影2,https://tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.m3u8?wsSecret=e23a5e734f53c45d0cf9fe9c531eb8a2&wsTime=607ec97f&u=0&seqid=16188354769981876&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Aq6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
 周星驰电影3,http://kuqq.tk/00/huya.php?id=19105261
+周星驰电影4,http://cdn.chxjon.cn/iptv/QQ2383132354/youku.php?id=zxc
+周星驰电影5,http://cdn.chxjon.cn/iptv/QQ2383132354/youku.php?id=zxc2
+周星驰电影6,http://cdn.chxjon.cn/iptv/QQ2383132354/youku.php?id=zxc3
+周星驰电影7,http://cdn.chxjon.cn/iptv/QQ2383132354/egame.php?id=199681168
+周星驰电影8,http://cdn.chxjon.cn/iptv/QQ2383132354/migu.php?id=623338112
+李连杰,http://cdn.chxjon.cn/iptv/QQ2383132354/youku.php?id=llj
+周润发,http://cdn.chxjon.cn/iptv/QQ2383132354/youku.php?id=zrf2
+刘德华,http://cdn.chxjon.cn/iptv/QQ2383132354/migu.php?id=659315648
 
 卡通台,#genre#
-小猪佩奇,http://221.178.100.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c16_lb_xiaozhupeiqi_720p_t5/c16_lb_xiaozhupeiqi_720p_t5.m3u8
+小猪佩奇1,http://cdn.chxjon.cn/iptv/QQ2383132354/iqiyi.php?id=380221622
+小猪佩奇2,http://cdn.chxjon.cn/iptv/QQ2383132354/youku.php?id=xzpq
+小猪佩奇3,http://221.178.100.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c16_lb_xiaozhupeiqi_720p_t5/c16_lb_xiaozhupeiqi_720p_t5.m3u8
+汪汪队立大功,http://cdn.chxjon.cn/iptv/QQ2383132354/youku.php?id=wwdldg
 靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
 
