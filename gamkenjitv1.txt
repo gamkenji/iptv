@@ -517,4 +517,4 @@ hustler hd,http://51.15.0.141:88/hustlerhd/index.m3u8
 redlight hd,http://51.15.0.141:88/redlightHD/index.m3u8
 
 測試,#genre#
-小猪佩奇,http://221.178.100.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c16_lb_xiaozhupeiqi_720p_t5/c16_lb_xiaozhupeiqi_720p_t5.m3u8
+
