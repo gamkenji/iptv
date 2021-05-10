@@ -434,7 +434,6 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 電影台,#genre#
 周星驰电影1,http://auney.gearhostpreview.com/huya.php?id=11342412
 周星驰电影2,http://kuqq.tk/00/huya.php?id=19105261
-周星驰电影3,http://tv.rdys888.top/bak/proxy/youku.php?id=8021901
 刘德华,http://cdn.chxjon.cn/iptv/QQ2383132354/migu.php?id=659315648
 
 卡通台,#genre#
