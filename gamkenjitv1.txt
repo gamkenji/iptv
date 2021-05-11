@@ -157,7 +157,6 @@ EYE_TV戏剧台,tvbus://5WmNR3P9mdwzYuLBr8ecBLi9m8V7DjTJfm4SgM4tmqQqr7RMiFASqTS8
 韩国娱乐台KMTV,tvbus://5NW3FFM1tRx9FiZW5KWX2kf6NDLwntDiFnjqnuPKqvqCczeGm7vk5FQX4tvto
 
 0511台灣源,#genre#
-新聞,#genre#
 TVBS新聞,http://192.30.243.236:1313/soot/9613.php?id=2
 TVBS新聞,http://192.30.243.236:1313/soot/9613.php?id=1004
 民視新聞,http://192.30.243.236:1313/soot/9613.php?id=13
