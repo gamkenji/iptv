@@ -571,21 +571,5 @@ hustler hd,http://51.15.0.141:88/hustlerhd/index.m3u8
 redlight hd,http://51.15.0.141:88/redlightHD/index.m3u8
 
 測試,#genre#
-中视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8814&key=84797b799ae18d1b
-中视新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8821&key=84797b799ae18d1b
-中视菁采,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8827&key=84797b799ae18d1b
-中视经典,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8826&key=84797b799ae18d1b
-台视财经,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8829&key=84797b799ae18d1b
-美亚电影台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11001&key=84797b799ae18d1b
-卫视中文台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13018&key=84797b799ae18d1b
-卫视电影台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13017&key=84797b799ae18d1b
-卫视洋片台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11002&key=84797b799ae18d1b
-星卫电影台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11003&key=84797b799ae18d1b
-星卫娱乐台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11004&key=84797b799ae18d1b
-国家地理野生,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11008&key=84797b799ae18d1b
-华纳电影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11011&key=84797b799ae18d1b
-韩国娱乐台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11016&key=84797b799ae18d1b
-Cbeebies卡通,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11018&key=84797b799ae18d1b
-Baby TV,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11014&key=84797b799ae18d1b
-Life Time,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11017&key=84797b799ae18d1b
+
 
