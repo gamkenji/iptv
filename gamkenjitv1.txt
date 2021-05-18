@@ -80,9 +80,9 @@ Eleven Sports 1,tvbus://5NrQ5pvLs9nQVyZtWJYJQaobzbEa1uTQwg2D4P1mwrtAh7ZsWZfpG2hA
 Eleven Sports 1 b,tvbus://7TQ2t52MTCykoWYFEGU39rQkJ5QzcQSfefoVrNCeP9boy9AS5n 
 Eleven Sports 2,tvbus://6SxHQswLudukLP996c4UcgZPuWG7HDvp2PM2mRg8ahfkJG9AjKTCJwZQjaKUL
 Eleven Sports 2 b,tvbus://8hEdnTPJhq69QcwbkqZXsPZPLDoH8tu65sE2gVk77hRYrggwFL 
-Eleven_Sport2 c,tvbus://5ieLy6Bs8rBH2rWXWF1aiFCpgMC3vzsKY8dD7FKwSkFreqYcb6rD5dCrXhdwL
+Eleven_Sports 2 c,tvbus://5ieLy6Bs8rBH2rWXWF1aiFCpgMC3vzsKY8dD7FKwSkFreqYcb6rD5dCrXhdwL
 博斯运动一台,tvbus://5PWUSk5i67uQNx1TYcu9KANMCLe6CtTztGSgXAdnqqDpNX7YkVjUvscJDtYYo
-博斯运动II,tvbus://8RXsBA2c75Hu7JA27UAZwpzm1vpkQmBtiqsRXvtTdMs9QmshuZ
+博斯运动二台,tvbus://8RXsBA2c75Hu7JA27UAZwpzm1vpkQmBtiqsRXvtTdMs9QmshuZ
 
 星衛電影台1,tvbus://5ixd4eARkmWRUdmjnAu17xUsC7ngBWDaxsmgk4LcxkFCkXELGn8CrfBYQijmA
 星衛電影台2,tvbus://8PYuWLSUxaWWmToyETBUGr32gQJRDg9K11ix8evcc7nB5dhELy
@@ -209,16 +209,6 @@ EYE_TV戏剧台,tvbus://5WmNR3P9mdwzYuLBr8ecBLi9m8V7DjTJfm4SgM4tmqQqr7RMiFASqTS8
 韩国娱乐台KMTV,tvbus://5NW3FFM1tRx9FiZW5KWX2kf6NDLwntDiFnjqnuPKqvqCczeGm7vk5FQX4tvto
 國興衛視,tvbus://5SX9vAMYLsHuC9UPJvZSGQcjCp3Zq2yCZYJP5YSdCyi7CrYu7CJmSkmWe11aP
 Z頻道,tvbus://6R1Mb1nKR5CvDNMeoPgdwFbgR4hAT8GoYmjAmg71KpcS1CnCZNqcsb5gvj6vq
-
-MTV_Live,tvbus://6KkQcWWPHAd5MuTaseQeai1b1o8Zx3zwS7LtXzERkChRirKYMUkjgRdeYS4Xs
-SURIA,tvbus://62xGqAyoBJKEHJeCh7mUFAKeai11idKJhk85XHLf17KqdoYXxzKiUS9pRxcH6
-CCTV15,tvbus://5m88fDW6wf9NiCqtP5phjWPXR8s7DPas7ckE8ZBxuLXgdyAupwQtutgmiHr5y
-ミュージック・ジャパンTV,tvbus://6SFSB9fvS9GLPpKFBuQ9SpFYUfZMLyra7AcgsPrR51J1wC8Dtjo7sBjjdD6f6
-Mnet,tvbus://6iEk9fVBmM3vSTcYXbwbFAsWSWa9wYa5VusUasgYLSjhGNNJz5ykEPU6uDq3j
-SUNMUSIC,tvbus://6hCmxzxuAVX8BahG7ZaDx55XPZrUcFqMmaikZBG6RkcnetwJVefLhjqywH3QR
-Sun_Music_HD,tvbus://5UqR917ijwsCNKJeBhQBS59ni9f5wvY4ezCjMRim5LyMvgtFWCUfJcpdmbCPV
-sunmusic,tvbus://62kyEciqNKqv4nm56D9AyTvh9pAFH8HweF4chr8T8P5PP78t4qPiJ4XUTh69t
-MTV_LIVE_HD,tvbus://5YS1LUZgi5WvmrEVXGSADZBV6vJsKC23E8MrMuch7DqNRCn4pHkjjEVrdKJfG
 
 0129mitv源,#genre#
 公視,mitv://ns2.hellotvvod.com:9906/5fc89eac000ec1d1514274296f4d5637.ts
