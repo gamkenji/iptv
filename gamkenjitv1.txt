@@ -486,8 +486,6 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 電影台,#genre#
 周星馳電影1,http://auney.gearhostpreview.com/huya.php?id=11342412
 周星馳電影2,http://kuqq.tk/00/huya.php?id=19105261
-周星馳電影3,http://tyzbcdn.chxjon.cn/iptv/qq2383132354/huya.php?id=23864973
-周星馳電影4,http://tyzbcdn.chxjon.cn/iptv/qq2383132354/douyu.php?id=122402
 
 卡通台,#genre#
 靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
