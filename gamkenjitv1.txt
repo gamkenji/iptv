@@ -748,4 +748,17 @@ CNN,mitv://ns2.hellotvvod.com:9906/604c79810005e9d3b9e54e8d293464c0.ts
  采昌影劇台,mitv://ns2.hellotvvod.com:9906/608d1fa60003637cb66e949a232827f8.ts
  唯心電視台,mitv://ns2.hellotvvod.com:9906/609117210003a5ebc5ed4d21151b7174.ts
  佛衛慈悲台,mitv://ns2.hellotvvod.com:9906/60957a96000c3c4dd711d05c48c86a75.ts
+ 
+緯來日本HD,rtmp://xiaoyu.speedws.com/sat/tv771
+緯來體育HD,rtmp://xiaoyu.speedws.com/sat/tv721
+緯來育樂HD,rtmp://xiaoyu.speedws.com/sat/tv701
+華視HD,rtmp://xiaoyu.speedws.com/sat/tv111
+中視HD,rtmp://xiaoyu.speedws.com/sat/tv091
+台視HD,rtmp://xiaoyu.speedws.com/sat/tv071
+民視HD,rtmp://xiaoyu.speedws.com/sat/tv051
+中天新聞,rtmp://xiaoyu.speedws.com/sat/tv521
+WIN綜合台,rtmp://xiaoyu.speedws.com/sat/tv761
+東森財經新聞,rtmp://xiaoyu.speedws.com/sat/tv571
+TVBS新聞HD,rtmp://xiaoyu.speedws.com/sat/tv551
+TVBS歡樂HD,rtmp://xiaoyu.speedws.com/sat/tv421
 
