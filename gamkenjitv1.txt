@@ -749,15 +749,13 @@ CNN,mitv://ns2.hellotvvod.com:9906/604c79810005e9d3b9e54e8d293464c0.ts
  唯心電視台,mitv://ns2.hellotvvod.com:9906/609117210003a5ebc5ed4d21151b7174.ts
  佛衛慈悲台,mitv://ns2.hellotvvod.com:9906/60957a96000c3c4dd711d05c48c86a75.ts
  
-民 視HD,mitv://sdgdklwos.finetv.tv:9906/59fd230300046dc8029d402053e02fbf.ts 
-中 視HD,mitv://sdgdklwos.finetv.tv:9906/59fd06ac000555a7022e8c862ebc1019.ts 
-華 視HD,mitv://sdgdklwos.finetv.tv:9906/59fd068a0005f99e022e07d55c2f581d.ts 
-台 視HD,mitv://sdgdklwos.finetv.tv:9906/59fd099c00008ebf023a04ce64d57ff4.ts 
-公 視HD,mitv://sdgdklwos.finetv.tv:9906/59fd0656000e66cd022d3ee840ad175d.ts 
-公 視3H,mitv://sdgdklwos.finetv.tv:9906/5ac5da01000d09fc15e6046427920804.ts 
-壹新聞台,mitv://sdgdklwos.finetv.tv:9906/59fd08ad000509c00236604f613b08e7
-壹綜合台,mitv://sdgdklwos.finetv.tv:9906/59fd06f600087a21022fae61787f061c
-東森幼幼,mitv://sdgdklwos.finetv.tv:9906/5a32188e00095e2bd4b5d0737fe325f5
-東森電影,mitv://sdgdklwos.finetv.tv:9906/59fd0cab0008230a0245f94a229777bd
-東森戲劇,mitv://sdgdklwos.finetv.tv:9906/59fd17a500022c250270d8533c186ce9
-東森洋片,mitv://sdgdklwos.finetv.tv:9906/59fd17860002b83302705f6a03a560d2
+三立新闻,P2p://lino.homeunix.com:6007/59fd08fd000707490237995b3c9f2775.ts
+壹电视新闻,P2p://lino.homeunix.com:6007/59fd08ad000509c00236604f613b08e7.ts
+非凡新闻,P2p://lino.homeunix.com:6007/59fd05f30007004f022bba4b77671d93.ts
+年代新闻,P2p://lino.homeunix.com:6007/5a56230e0004af51617ff5935a3e292e.ts
+民视新闻台,P2p://lino.homeunix.com:6007/59fd05930008403b022a439a3b9b7401.ts
+东森新闻,P2p://lino.homeunix.com:6007/5a1427ee0009fb195fc1064a3af652d1.ts
+东森财经新闻,P2p://lino.homeunix.com:6007/59fd1f94000ee56d028fd937397b7e63.ts
+寰宇新闻,#genre#,P2p://lino.homeunix.com:6007/59fd2b5e0006d13802bde4340bc41e87.ts
+寰宇新闻二台,P2p://lino.homeunix.com:6007/5a142744000f25045fbe6f82276e0d88.ts
+台视新闻台,P2p://lino.homeunix.com:6007/59fd299b00054a3002b7020e67d657e3.ts
