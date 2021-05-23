@@ -208,15 +208,6 @@ EYE_TV戲劇台,tvbus://5WmNR3P9mdwzYuLBr8ecBLi9m8V7DjTJfm4SgM4tmqQqr7RMiFASqTS8
 Z頻道,tvbus://6R1Mb1nKR5CvDNMeoPgdwFbgR4hAT8GoYmjAmg71KpcS1CnCZNqcsb5gvj6vq
 愛奇藝,tvbus://66FRpocmtD6gMwzcvdFBh66GfamAqyNA5s1b9FrEKnuUnjQXsQn7zs6YAR55g
 
-0129mitv源,#genre#
-公視,mitv://ns2.hellotvvod.com:9906/5fc89eac000ec1d1514274296f4d5637.ts
-八大第一台,mitv://ns2.hellotvvod.com:9906/5fc8a0420006e4ca5148a4155c5a661f.ts
-八大戲劇台,mitv://ns2.hellotvvod.com:9906/5fc8a12900013eaf514c28f64701660a.ts
-八大娛樂台,mitv://ns2.hellotvvod.com:9906/5fc8a042000108b55148a28f693f3237.ts
-新唐人亞太台,mitv://ns2.hellotvvod.com:9906/5fd2432e0000b87e76ed165205b57733.ts
-三立戲劇台,mitv://ns2.hellotvvod.com:9906/5fdcc603000df3b8058fc29a57e54474.ts
-壹電視電影台,mitv://ns2.hellotvvod.com:9906/5fdcb44e000ed447054a97d17bb45cfa.ts
-
 mitv源,#genre#
 TVBS新聞,mitv://fccsovh.pvbox.live:18912/5c2dd76300095ef4ca7620ece66109ec.ts,mitv://fccsovh.pvbox.live:18912/5b1409600008c73bd46bfb2af1f5ae94.ts,mitv://fccseuro.pvbox.live:18912/5c7249c2000e510f1d57a75a30592ee2.ts,mitv://fccseuro.pvbox.live:18912/5c2dd76300095ef4ca7620ece66109ec.ts
 壹電視新聞,mitv://fccsovh.pvbox.live:18912/5c2dd75c000b56813bdbfb1808231457.ts,mitv://fccsovh.pvbox.live:18912/5b14094000088a467b4c607ca6b96c9e.ts,mitv://fccseuro.pvbox.live:18912/5c724897000cb1861d5316f515e3763e.ts,mitv://fccseuro.pvbox.live:18912/5c2dd75c000b56813bdbfb1808231457.ts
