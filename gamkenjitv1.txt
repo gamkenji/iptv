@@ -560,25 +560,25 @@ redlight hd,http://51.15.0.141:88/redlightHD/index.m3u8
 
 測試,#genre#
 緯來體育台,http://m.iptv345.com/?act=play&token=afd82daea7ec0c69fc06e13ff646ed18&tid=ty&id=9
-Eroxxx HD,https://147.78.163.247：8000 / play / a021
-Extasy TV HD,https://213.151.233.20：8000 / dna-6233-tv-pc / hls / 4004v105.m3u8
+Eroxxx HD,https://147.78.163.247：8000/play/a021
+Extasy TV HD,https://213.151.233.20：8000/dna-6233-tv-pc/hls/4004v105.m3u8
 FashionTV Midnite Secrets,https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-Jasmin TV,https://109.71.162.112:1935 / live / hd.jasminchannel.stream / playlist.m3u8
-迈阿密电视台,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU / chunklist_w1195980091_b2592000.m3u8
-迈阿密电视台,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU / chunklist_w823630935_b2592000.m3u8
-迈阿密电视台,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB / chunklist_w2005472791_b2592000.m3u8
-迈阿密电视,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB / playlist.m3u8
-迈阿密电视珍妮2,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico / playlist.m3u8
+Jasmin TV,https://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+迈阿密电视台,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+迈阿密电视台,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w823630935_b2592000.m3u8
+迈阿密电视台,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/chunklist_w2005472791_b2592000.m3u8
+迈阿密电视,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/playlist.m3u8
+迈阿密电视珍妮2,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 迈阿密电视Jenny Live,https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-迈阿密电视Jenny Live,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU / chunklist_w1869403172_b1896000.m3u8
-迈阿密电视拉丁裔,https://59ec5453559f0.streamlock.net/canal18/smil:canal18 / chunklist_w577650521_b2592000.m3u8
-迈阿密电视拉丁,https://59ec5453559f0.streamlock.net/canal18/smil:canal18 / playlist.m3u8
-墨西哥迈阿密电视台,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico / chunklist_w1931827340_b1896000.m3u8
-花花公子电视台,https://187.188.147.165：8000 / play / a00l / index.m3u8
+迈阿密电视Jenny Live,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+迈阿密电视拉丁裔,https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
+迈阿密电视拉丁,https://59ec5453559f0.streamlock.net/canal18/smil:canal18/playlist.m3u8
+墨西哥迈阿密电视台,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
+花花公子电视台,https://187.188.147.165：8000/play/a00l/index.m3u8
 胭脂电视,https://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-Visit-X TV,https://194.116.150.47：1935 / vxtv / live_720p / playlist.m3u8
-Visit-X TV,https://stream.visit-x.tv：1935 / vxtv / live_360p / playlist.m3u8
-Antena Monden,https:///stream1.antenaplay.ro/live/smil:AntenaMonden.smil / playlist.m3u8
+Visit-X TV,https://194.116.150.47：1935/vxtv/live_720p/playlist.m3u8
+Visit-X TV,https://stream.visit-x.tv：1935/vxtv/live_360p / playlist.m3u8
+Antena Monden,https:///stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
 Antena星,hhttps://ivm.antenaplay.ro/live/astars/playlist.m3u8
 Ayush TV,hhttps://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 大生活电视,https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
