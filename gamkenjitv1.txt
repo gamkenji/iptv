@@ -242,7 +242,6 @@ TVBS新聞,rtmp://59.124.75.130/sat/tv551
 
 526台灣源,#genre#
 三立都會台,http://50.7.59.216:61980/myplay/cn_4_14024/index.m3u8?key=84797b799ae18d1b
-三立台灣台,http://47.242.54.220/daili/ce50.php?gun=3&id=sltw_pye
 三立台灣台,http://50.7.59.216:61980/myplay/cn_4_14023/index.m3u8?key=84797b799ae18d1b
 民視台,http://50.7.59.216:61980/myplay/cn_0_8813/index.m3u8?key=84797b799ae18d1b
 民視台新聞台,http://50.7.59.216:61980/myplay/cn_0_8820/index.m3u8?key=84797b799ae18d1b
@@ -320,12 +319,10 @@ TVBS歡樂台,http://50.7.59.216:61980/myplay/cn_4_14016/index.m3u8?key=84797b79
 中天新聞台,http://50.7.59.216:61980/myplay/cn_4_14018/index.m3u8?key=84797b799ae18d1b
 中天娛樂台,http://50.7.59.216:61980/myplay/cn_4_14020/index.m3u8?key=84797b799ae18d1b
 中天綜合台,http://50.7.59.216:61980/myplay/cn_4_14019/index.m3u8?key=84797b799ae18d1b
-寰宇新聞台,http://50.7.59.216:61980/myplay/cn_5_15005/index.m3u8?key=84797b799ae18d1b
 八大綜合台,http://50.7.59.216:61980/myplay/cn_5_15002/index.m3u8?key=84797b799ae18d1b
 八大娛樂台台,http://50.7.59.216:61980/myplay/cn_5_15004/index.m3u8?key=84797b799ae18d1b
 八大第一台,http://50.7.59.216:61980/myplay/cn_5_15001/index.m3u8?key=84797b799ae18d1b
 八大戲劇台,http://50.7.59.216:61980/myplay/cn_5_15003/index.m3u8?key=84797b799ae18d1b
-壹電影台,http://50.7.59.216:61980/myplay/cn_5_15006/index.m3u8?key=84797b799ae18d1b
 美食星球,http://50.7.59.216:61980/myplay/cn_0_8804/index.m3u8?key=84797b799ae18d1b
 ANIMAX,http://50.7.59.216:61980/myplay/cn_3_13020/index.m3u8?key=84797b799ae18d1b
 AXN,http://50.7.59.216:61980/myplay/cn_3_13021/index.m3u8?key=84797b799ae18d1b
