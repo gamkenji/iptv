@@ -824,8 +824,23 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 電影台,#genre#
 周星馳電影1,http://auney.gearhostpreview.com/huya.php?id=11342412
 周星馳電影2,http://kuqq.tk/00/huya.php?id=19105261
+周星馳電影3,http://tydl2021.chxjon.cn/iptv/qq2383132354/huya.php?id=23864973
+周星馳電影4,http://tydl2021.chxjon.cn/iptv/qq2383132354/youku.php?id=zxc
+周星馳電影5,http://tydl2021.chxjon.cn/iptv/qq2383132354/youku.php?id=zxc2
+周星馳電影6,http://tydl2021.chxjon.cn/iptv/qq2383132354/youku.php?id=zxc3
+郭富城,http://tydl2021.chxjon.cn/iptv/qq2383132354/youku.php?id=gfc
+林正英,http://tydl2021.chxjon.cn/iptv/qq2383132354/youku.php?id=lzy
+李連杰,http://tydl2021.chxjon.cn/iptv/qq2383132354/youku.php?id=llj
+周潤發,http://tydl2021.chxjon.cn/iptv/qq2383132354/youku.php?id=zrf2
+成龍電影,http://tydl2021.chxjon.cn/iptv/qq2383132354/youku.php?id=cl2
 
 卡通台,#genre#
+小猪佩奇1,http://tydl2021.chxjon.cn/iptv/qq2383132354/iqiyi.php?id=1800487
+小猪佩奇2,http://tydl2021.chxjon.cn/iptv/qq2383132354/youku.php?id=xzpq
+寶寶巴士,http://tydl2021.chxjon.cn/iptv/qq2383132354/iqiyi.php?id=1800641
+巧虎,http://tydl2021.chxjon.cn/iptv/qq2383132354/iqiyi.php?id=1800622 
+海底小縱隊,http://tydl2021.chxjon.cn/iptv/qq2383132354/youku.php?id=hdxzd
+汪汪隊立大功,http://tydl2021.chxjon.cn/iptv/qq2383132354/youku.php?id=wwdldg
 靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
 
