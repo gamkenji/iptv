@@ -242,6 +242,7 @@ TVBS新聞,rtmp://59.124.75.130/sat/tv551
 
 526台灣源,#genre#
 TVBS新聞台,http://50.7.59.216:61980/myplay/cn_4_14017/index.m3u8?key=84797b799ae18d1b
+壹新聞,http://50.7.59.216:61980/myplay/cn_2_12004/index.m3u8?key=84797b799ae18d1b
 東森新聞台,http://50.7.59.216:61980/myplay/cn_4_14001/index.m3u8?key=84797b799ae18d1b
 東森財經新聞台,http://50.7.59.216:61980/myplay/cn_4_14004/index.m3u8?key=84797b799ae18d1b
 民視台新聞台,http://50.7.59.216:61980/myplay/cn_0_8820/index.m3u8?key=84797b799ae18d1b
@@ -300,12 +301,14 @@ ANIMAX,http://50.7.59.216:61980/myplay/cn_3_13020/index.m3u8?key=84797b799ae18d1
 AXN,http://50.7.59.216:61980/myplay/cn_3_13021/index.m3u8?key=84797b799ae18d1b
 Travel Channel,http://50.7.59.216:61980/myplay/cn_3_13024/index.m3u8?key=84797b799ae18d1b
 緯來戲劇台,http://50.7.59.216:61980/myplay/cn_4_14012/index.m3u8?key=84797b799ae18d1b
+高點綜藝,http://50.7.59.216:61980/myplay/cn_2_12003/index.m3u8?key=84797b799ae18d1b
 
 星衛電影台,http://50.7.59.216:61980/myplay/cn_1_11003/index.m3u8?key=84797b799ae18d1b
 東森洋片台,http://50.7.59.216:61980/myplay/cn_4_14003/index.m3u8?key=84797b799ae18d1b
 東森電影台,http://50.7.59.216:61980/myplay/cn_4_14002/index.m3u8?key=84797b799ae18d1b
 緯來電影台,http://50.7.59.216:61980/myplay/cn_4_14009/index.m3u8?key=84797b799ae18d1b
 龍翔時代,http://50.7.59.216:61980/myplay/cn_2_12019/index.m3u8?key=84797b799ae18d1b
+靖天電影台,http://50.7.59.216:61980/myplay/cn_1_11019/index.m3u8?key=84797b799ae18d1b
 美亞電影台,http://50.7.59.216:61980/myplay/cn_1_11001/index.m3u8?key=84797b799ae18d1b
 衛視台電影台,http://50.7.59.216:61980/myplay/cn_3_13017/index.m3u8?key=84797b799ae18d1b
 衛視台洋片台,http://50.7.59.216:61980/myplay/cn_1_11002/index.m3u8?key=84797b799ae18d1b
@@ -334,9 +337,6 @@ Eleven Sports Plus,http://50.7.59.216:61980/myplay/cn_1_11006/index.m3u8?key=847
 Eleven Sports 2,http://50.7.59.216:61980/myplay/cn_1_11007/index.m3u8?key=84797b799ae18d1b
 博斯運動,http://50.7.59.216:61980/myplay/cn_2_12005/index.m3u8?key=84797b799ae18d1b
 博斯運動2,http://50.7.59.216:61980/myplay/cn_2_12006/index.m3u8?key=84797b799ae18d1b
-FOX SPORTS,http://50.7.59.216:61980/myplay/cn_2_12003/index.m3u8?key=84797b799ae18d1b
-FOX SPORTS 2,http://50.7.59.216:61980/myplay/cn_2_12004/index.m3u8?key=84797b799ae18d1b
-FOX Sport 3,http://50.7.59.216:61980/myplay/cn_1_11019/index.m3u8?key=84797b799ae18d1b
 
 mitv(ns2源),#genre#
 衛視電影台,mitv://ns2.hellotvvod.com:9906/a6982db5fa984f8f88268a8d963b2d22.ts
