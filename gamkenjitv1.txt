@@ -366,7 +366,7 @@ Fx Movie Channel,http://50.7.59.216:61980/myplay/cn_1_11012/index.m3u8?key=84797
 Crime Investigation,http://50.7.59.216:61980/myplay/cn_1_11013/index.m3u8?key=84797b799ae18d1b
 Baby TV,http://50.7.59.216:61980/myplay/cn_1_11014/index.m3u8?key=84797b799ae18d1b
 
-mitv_ns2源,#genre#
+mitv(ns2源),#genre#
 衛視電影台,mitv://ns2.hellotvvod.com:9906/a6982db5fa984f8f88268a8d963b2d22.ts
 東森電影台,mitv://ns2.hellotvvod.com:9906/b252c84d685147e982631f11de728ebd.ts
 緯來電影台,mitv://ns2.hellotvvod.com:9906/acef7f93a0f74ea6af89e262850a5d8f.ts
