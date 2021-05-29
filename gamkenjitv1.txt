@@ -772,8 +772,6 @@ Latina,http://cdn.adultiptv.net/latina.m3u8
 Lesbian,http://cdn.adultiptv.net/lesbian.m3u8
 Live Cams,http://cdn.adultiptv.net/livecams.m3u8
 Rough,http://cdn.adultiptv.net/rough.m3u8
-Shelksd,http://194.190.78.91:8080/shelksd/index.m3u8
-Shelk HD,http://194.190.78.91:8080/shelk/index.m3u8
 RUsskayanoch,http://93.189.224.117:9030/russkayanoch
 hustler hd,http://51.15.0.141:88/hustlerhd/index.m3u8
 redlight hd,http://51.15.0.141:88/redlightHD/index.m3u8
