@@ -518,13 +518,6 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
 
 18+_711211,#genre#
-彩虹e台,http://144.217.66.153:25461/live/bnbpsdpsr155t/bnbpsdpsr155t/701271335.ts?token=HRdZAkFYQQlHBgIDAQdZAgZZB1BWAAFUAFNQVwZXVwkEVFMFAAcBBlQVHxRLQBNVUVU8CgATC1RWBlZWU1FRBUoXRBBXQjxaARUJFAAAVwcSFEEXDVxUQVwGUlNQU1oHVQQGTxBACldHDREACw1XEhwaBhsQVEMNB1s7BQcUC1MDFwsNR1wPH0dYXWlcUQxRXlxBWUYBE09EXhcRQFgMRQpZHUFQWRdBBENWFAIWUwAGD0FPRlJeFghDFhhAWEBkMRcdQVdIF1YLRFpZVhZbEkRLQU9GWEI8FFIXFRAHA10DRxNZEABBH0daUk5nVw5eXl0AFw1eXxBEDUZQQE5AXQlbWBddQjxDDFMRDBoGVgcIAEEe
-彩虹电影台,http://144.217.66.153:25461/live/bnbpsdpsr155t/bnbpsdpsr155t/701271264.ts?token=HRdZAkFYQQlHU1cOXVYEA1IPW1IAUgVUU1JSBQMEWwECAgJUBQhUVVcVHxRLQBNVUVU8CgATC1RWBlZWU1BUBEoXRBBXQjxaARUJFAAAVwcSFEEXDVxUQVwGUlNQU1oHVAcITxBACldHDREADABREhwaBhsQVEMNB1s7BQcUC1MDFwsNR1wPH0dYXWlcUQxRXlxBWUYBE09EXhcRQFgMRQpZHUFQWRdBBENWFAIWUAkGAEFPRlJeFghDFhhAWEBkMRcdQVdIF1YLRFpZVhZbEkRLQU9GWEI8FFIXFRAHA10DRxNZEABBH0daUk5nVw5eXl0AFw1eXxBEDUZQQE5AXQlbWBddQjxDDFMRDBoGVwYED0Ee
-潘朵啦玩美台,http://144.217.66.153:25461/live/bnbpsdpsr155t/bnbpsdpsr155t/701271840.ts?token=HRdZAkFYQQlHDlIODQQCBwBZWwVQVwhSUlMAVwdVBwhVVgVXUFMAVgEVHxRLQBNVUVU8CgATC1RWBlZWU1pWAEoXRBBXQjxaARUJFAAAVwcSFEEXDVxUQVwGUlNQU1oHUgwHTxBACldHDREACgZUEhwaBhsQVEMNB1s7BQcUC1MDFwsNR1wPH0dYXWlcUQxRXlxBWUYBE09EXhcRQFgMRQpZHUFQWRdBBENWFAIWUwUICkFPRlJeFghDFhhAWEBkMRcdQVdIF1YLRFpZVhZbEkRLQU9GWEI8FFIXFRAHA10DRxNZEABBH0daUk5nVw5eXl0AFw1eXxBEDUZQQE5AXQlbWBddQjxDDFMRDBoHVQkHGh4
-惊艳成人电影台,http://144.217.66.153:25461/live/bnbpsdpsr155t/bnbpsdpsr155t/701271725.ts?token=HRdZAkFYQQlHDwJVCwVSAwkIUAZdUgNaVFFcAgFRW1NfBFMBVlVWA1IVHxRLQBNVUVU8CgATC1RWBlZWU1VQBUoXRBBXQjxaARUJFAAAVwcSFEEXDVxUQVwGUlNQU1oHUgADTxBACldHDREACgxVEhwaBhsQVEMNB1s7BQcUC1MDFwsNR1wPH0dYXWlcUQxRXlxBWUYBE09EXhcRQFgMRQpZHUFQWRdBBENWFAIWUwMFDkFPRlJeFghDFhhAWEBkMRcdQVdIF1YLRFpZVhZbEkRLQU9GWEI8FFIXFRAHA10DRxNZEABBH0daUk5nVw5eXl0AFw1eXxBEDUZQQE5AXQlbWBddQjxDDFMRDBoFVgMIGh4
-松视1台,http://144.217.66.153:25461/live/bnbpsdpsr155t/bnbpsdpsr155t/701271457.ts?token=HRdZAkFYQQlHUgMDWwZSAwkNVABTBVJVU1ZdUAcDAVNXUFAHAQZWBgAVHxRLQBNVUVU8CgATC1RWBlZWU1ZXB0oXRBBXQjxaARUJFAAAVwcSFEEXDVxUQVwGUlNQU1oHVQMHTxBACldHDREADAZZEhwaBhsQVEMNB1s7BQcUC1MDFwsNR1wPH0dYXWlcUQxRXlxBWUYBE09EXhcRQFgMRQpZHUFQWRdBBENWFAIWUwQBCkFPRlJeFghDFhhAWEBkMRcdQVdIF1YLRFpZVhZbEkRLQU9GWEI8FFIXFRAHA10DRxNZEABBH0daUk5nVw5eXl0AFw1eXxBEDUZQQE5AXQlbWBddQjxDDFMRDBoGWAYGC0Ee
-松视2台,http://144.217.66.153:25461/live/bnbpsdpsr155t/bnbpsdpsr155t/701271676.ts?token=HRdZAkFYQQlHBwJUAVADBwFcV1tdCANRXgZdUQdbBAZTBFdWBlIGBFMVHxRLQBNVUVU8CgATC1RWBlZWU1RVBkoXRBBXQjxaARUJFAAAVwcSFEEXDVxUQVwGUlNQU1oHUgQBTxBACldHDREBAANREhwaBhsQVEMNB1s7BQcUC1MDFwsNR1wPH0dYXWlcUQxRXlxBWUYBE09EXhcRQFgMRQpZHUFQWRdBBENWFAIWUwYEDEFPRlJeFghDFhhAWEBkMRcdQVdIF1YLRFpZVhZbEkRLQU9GWEI8FFIXFRAHA10DRxNZEABBH0daUk5nVw5eXl0AFw1eXxBEDUZQQE5AXQlbWBddQjxDDFMRDBoNUggSRQ
-
 松視一台(720P),rtmp://161.202.204.248:1935/tv/ttv11
 HAPPY成人(720P),rtmp://161.202.204.248:1935/tv/ttv12
 
@@ -559,6 +552,14 @@ Hardcore,tvbus://6hu2htv7ndBFx99NqxEkYvswHPBo1PFxtGMbc1tiMDbXkLHZvyKsnkCmpXGfk
 
 bratt sis, http://gooserace.xyz:2052/live/donna/donna123/2578128.m3u8
 LEO TV HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
+HUSTLER HD,http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/6028
+BARELY LEGAL,http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/92037
+BLUE HUSTLER,http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/37296
+MIAMI TV,http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1731
+PENTHOUSE GOLD FHD,http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/32056
+PLAYBOY HD,http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/14222
+VIVID RED HD,http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/3989
+PLAYBOY EUROPE,http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/67686
 松視1歐美版,http://live.redtraffic.xyz:80/fetish.m3u8
 松視2歐美版,http://live.redtraffic.xyz:80/interracial.m3u8
 松視2歐美版,http://cdn.adultiptv.net/interracial.m3u8
@@ -616,31 +617,6 @@ redlight hd,http://51.15.0.141:88/redlightHD/index.m3u8
 天映經典,http://47.242.54.220/daili/ce50.php?gun=3&id=celestial2_pye
 天映頻道,http://47.242.54.220/daili/ce50.php?gun=3&id=celestial_pye
 CATCHPAYj電影台,http://47.242.54.220/daili/ce50.php?gun=3&id=cmovie_pye
-WWE,http://47.242.54.220/daili/ce50.php?gun=3&id=wwe_pye
-AXN,http://47.242.54.220/daili/ce50.php?gun=2&id=Axn
-HITS,http://47.242.54.220/daili/ce50.php?gun=2&id=Hits
-History,http://47.242.54.220/daili/ce50.php?gun=2&id=History
-FOX,http://47.242.54.220/daili/ce50.php?gun=2&id=Foxhd
 Baby TV,http://47.242.54.220/daili/ce50.php?gun=2&id=Babytv
-OHK,http://47.242.54.220/daili/ce50.php?gun=3&id=ohk_pye
-OHK,http://47.242.54.220/daili/ce50.php?gun=3&id=Ohk
-FOX Action Movies,http://47.242.54.220/daili/ce50.php?gun=2&id=Foxactionhd
-FOX Crime,http://47.242.54.220/daili/ce50.php?gun=2&id=Foxcrime
-FOX Family Movies,http://47.242.54.220/daili/ce50.php?gun=2&id=Foxfamily
-FOX Life,http://47.242.54.220/daili/ce50.php?gun=2&id=Foxlife
-FOX Movies,http://47.242.54.220/daili/ce50.php?gun=2&id=Foxmovie
-Hits Movie,http://47.242.54.220/daili/ce50.php?gun=2&id=Hitsmovie
-KIX,http://45.126.83.51/uq2663/h/h07/01.m3u8
-LifeTime,http://47.242.54.220/daili/ce50.php?gun=2&id=Lifetime
-Thrill,http://47.242.54.220/daili/ce50.php?gun=2&id=Thrill
-Warner TV,http://47.242.54.220/daili/ce50.php?gun=2&id=WarnerTV
-Discovery Channel,http://47.242.54.220/daili/ce50.php?gun=2&id=Discoveryhd
-Nat Geo,http://47.242.54.220/daili/ce50.php?gun=2&id=Natgeo
-Nat Geo Wild,http://47.242.54.220/daili/ce50.php?gun=2&id=Natgeopeople
-Animax,http://47.242.54.220/daili/ce50.php?gun=2&id=Animax
-Boomerang,http://47.242.54.220/daili/ce50.php?gun=2&id=Boomerang
-Cartoon Network,http://47.242.54.220/daili/ce50.php?gun=2&id=Cn
 CBeebies,http://47.242.54.220/daili/ce50.php?gun=2&id=Cbeebies
-Disney Channel,http://47.242.54.220/daili/ce50.php?gun=2&id=Disneyxd
-Nick Jr,http://47.242.54.220/daili/ce50.php?gun=2&id=Nickjr
-Nickelodeon,http://47.242.54.220/daili/ce50.php?gun=2&id=Nickelodeon
+
