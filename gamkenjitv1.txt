@@ -80,6 +80,7 @@ tvbus電影台,#genre#
 天映經典,tvbus://6HbVAkQXXj4SAXKpyDt18vqEHoHVkjNQ4gSQNVtgWeBJ72VT7Yc2npgAr2WUY
 天映經典2,tvbus://8ejPr4HYposmMUYrDyRG1V4UYjufQczokjwi72KjtC2d3ToHob
 天映頻道,tvbus://7tCv2tmBsAT1E8aA3cDpr2RkXCeNh4QjGDh1NaWEGaykUToTHc
+靖天電影台,tvbus://5TwdQ9cS9ytejmgT77nfnGW7xYuXtGxFqeeUjhgp79yQtamqBuxYkmY4FLLbe
 HBO_HD1,tvbus://5opYE6ErJoLGfYc4vUN9WxYLLzrKu7PT6g6TKqDtkZHVxPZCrxTmrQTBNyigP
 HBO HD2,tvbus://5rd48zEsp3Yeo2SY2J78CL1ZstuhDRJrE8ubXXNLBejiMXZHgcTR7pbSdy2Ti
 HBO HD3,tvbus://6GFRVAcUsiqY67h8ePy4DnJvBS2L7onVFvB1g6HRCJZ3n57Ua2pBbENmboqd7
