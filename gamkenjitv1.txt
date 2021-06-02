@@ -237,9 +237,6 @@ Mono綜合,rtmp://59.124.75.130:1935/sat/tv761
 FOX體育,rtmp://59.124.75.130:1935/sat/tv731
 FOX2體育,rtmp://59.124.75.130:1935/sat/tv741
 TVBS新聞,rtmp://59.124.75.130/sat/tv551
-國家地理,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
-探索頻道,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
-星空體育,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 
 mitv源,#genre#
 TVBS新聞,mitv://fccsovh.pvbox.live:18912/5c2dd76300095ef4ca7620ece66109ec.ts,mitv://fccsovh.pvbox.live:18912/5b1409600008c73bd46bfb2af1f5ae94.ts,mitv://fccseuro.pvbox.live:18912/5c7249c2000e510f1d57a75a30592ee2.ts,mitv://fccseuro.pvbox.live:18912/5c2dd76300095ef4ca7620ece66109ec.ts
@@ -553,14 +550,6 @@ Hardcore,tvbus://6hu2htv7ndBFx99NqxEkYvswHPBo1PFxtGMbc1tiMDbXkLHZvyKsnkCmpXGfk
 
 bratt sis, http://gooserace.xyz:2052/live/donna/donna123/2578128.m3u8
 LEO TV HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
-HUSTLER HD,http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/6028
-BARELY LEGAL,http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/92037
-BLUE HUSTLER,http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/37296
-MIAMI TV,http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1731
-PENTHOUSE GOLD FHD,http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/32056
-PLAYBOY HD,http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/14222
-VIVID RED HD,http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/3989
-PLAYBOY EUROPE,http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/67686
 松視1歐美版,http://live.redtraffic.xyz:80/fetish.m3u8
 松視2歐美版,http://live.redtraffic.xyz:80/interracial.m3u8
 松視2歐美版,http://cdn.adultiptv.net/interracial.m3u8
