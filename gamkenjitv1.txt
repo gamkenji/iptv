@@ -519,6 +519,11 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 卡通台,#genre#
 靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
+GOODTV-卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
+迪士尼,http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
+CN卡通台,http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
+尼克兒童,http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
+索尼動畫,http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
 
 18+_711211,#genre#
 松視一台(720P),rtmp://161.202.204.248:1935/tv/ttv11
@@ -553,7 +558,6 @@ Latina,tvbus://6HdxNYSHg9jwd4o6JZpYt1UjmvngTJ4DG1F25u8t9dRQJQ3JsM68qW3tJ1ggG
 HD,tvbus://5sKux8SFKgzeiQimkhPNZfUSfC5GwCgtcfKEB5RTXsUGDRD3aYz6UNhV61vZT
 Hardcore,tvbus://6hu2htv7ndBFx99NqxEkYvswHPBo1PFxtGMbc1tiMDbXkLHZvyKsnkCmpXGfk
 
-bratt sis, http://gooserace.xyz:2052/live/donna/donna123/2578128.m3u8
 LEO TV HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 松視1歐美版,http://live.redtraffic.xyz:80/fetish.m3u8
 松視2歐美版,http://live.redtraffic.xyz:80/interracial.m3u8
@@ -609,9 +613,6 @@ redlight hd,http://51.15.0.141:88/redlightHD/index.m3u8
 民視第一台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-301
 民視新聞台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-302
 
-天映經典,http://47.242.54.220/daili/ce50.php?gun=3&id=celestial2_pye
-天映頻道,http://47.242.54.220/daili/ce50.php?gun=3&id=celestial_pye
-CATCHPAYj電影台,http://47.242.54.220/daili/ce50.php?gun=3&id=cmovie_pye
 Baby TV,http://47.242.54.220/daili/ce50.php?gun=2&id=Babytv
 CBeebies,http://47.242.54.220/daili/ce50.php?gun=2&id=Cbeebies
 
