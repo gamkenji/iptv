@@ -616,3 +616,5 @@ CBeebies,http://47.242.54.220/daili/ce50.php?gun=2&id=Cbeebies
 周星驰3,http://tydl2021.chxjon.cn/iptv/qq2383132354/youku.php?id=zxc3
 海底小纵队,http://tydl2021.chxjon.cn/iptv/qq2383132354/youku.php?id=hdxzd
 汪汪队立大功,http://tydl2021.chxjon.cn/iptv/qq2383132354/youku.php?id=wwdldg
+小猪佩奇1,http://tydl2021.chxjon.cn/iptv/qq2383132354/youku.php?id=xzpq
+
