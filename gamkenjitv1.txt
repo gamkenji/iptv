@@ -596,16 +596,4 @@ hustler hd,http://51.15.0.141:88/hustlerhd/index.m3u8
 redlight hd,http://51.15.0.141:88/redlightHD/index.m3u8
 
 測試,#genre#
-華視,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-501
-華視教育體育文化台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-502
-華視新聞資訊台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-503
-中視,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-100
-中視新聞台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-101
-中視經典台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-102
-中視菁采台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-103
-民視,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-300
-民視第一台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-301
-民視新聞台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-302
 
-Baby TV,http://47.242.54.220/daili/ce50.php?gun=2&id=Babytv
-CBeebies,http://47.242.54.220/daili/ce50.php?gun=2&id=Cbeebies
