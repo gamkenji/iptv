@@ -520,22 +520,6 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
 
 18+_711211,#genre#
-松視一台(720P),rtmp://161.202.204.248:1935/tv/ttv11
-HAPPY成人(720P),rtmp://161.202.204.248:1935/tv/ttv12
-
-松視1台,tvbus://6j9sopzBQKaUPnGvkMH4tMfWbCj4BbuPcV9TFJ3GLqtS2TrMvHQrJj94B3wmL
-松視2台,tvbus://6iTNFjY8ZAGCf3rHAN6uVBmVN3Hwu2a9wHKjb46C4BNS5jkHXx92s6CwzzAmE
-香蕉台,tvbus://5huoDVzDpu61L6HA9YH2jhLAGPaNeYMrPfNWQRBuQEihYspdtR1bGb64VninD
-K頻道,tvbus://6TwSfX13ixWEmxSZvpBVBScVbJW7T1yGLEK99Vib5fdistnWr47pXTsU1zvYU
-潘多拉粉紅,tvbus://5Vwks9Jw5SGxTtkrbQ9DNrgE3H2M57ipNTVH1SCUbQ6rEa4DFdpALHW4Cxqon
-潘多拉完美,tvbus://5zAeYwcSzgLveVCA5YtVJcn8C8rmZiXJdfrCJTyddtnQ2ovn1YPPKnEt2vAfL
-彩虹電影,tvbus://65M9GkToHjwsC6tvBphaHyZHyeRwx7hxjxJoR6yRqnAdrRHWACMf1MxJ1DD69
-彩虹e,tvbus://5x45fR5PdxGJMTBo1oW5SXR6bK4UucDboBka7eiySQyb9h9BeXphALXkmmFbY
-驚艷電影台,tvbus://5hfjaBEoVw9bstKUMxHRzthTv3vKuaTFRDhze7rNv5grCRB5jKV9TGyDMEsCx
-LOOK,tvbus://5huoDVzDpu61L6HA9YH2jhLAGPaNeYMrPfNWQRBuQEihYspdtR1bGb64VninD
-驚艷電影台,tvbus://5hfjaBEoVw9bstKUMxHRzthTv3vKuaTFRDhze7rNv5grCRB5jKV9TGyDMEsCx
-極限電影台,tvbus://6FPNBzRsYXHBDN6wicZW2dmNv4z7jZJdekBKaeTZbxFu63sSCSjYd6GZaCZBR 
-
 LOOK,mitv://147.135.39.171:9906/600fee6f000007ad8ba11313299f2579.m3u8
 香蕉台,p9p://161.8.18.106:9806/5fe444d20003974c829ee5410c100599.m3u8
 驚艷台,mitv://147.135.39.171:9906/600fee6c000abd6a8ba10a1a128227a6.m3u8
