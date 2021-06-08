@@ -520,22 +520,6 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
 
 18+_711211,#genre#
-LOOK,mitv://147.135.39.171:9906/600fee6f000007ad8ba11313299f2579.m3u8
-香蕉台,p9p://161.8.18.106:9806/5fe444d20003974c829ee5410c100599.m3u8
-驚艷台,mitv://147.135.39.171:9906/600fee6c000abd6a8ba10a1a128227a6.m3u8
-松視1台,mitv://147.135.39.171:9906/600fee6e0007553f8ba1110f25803777.m3u8
-松視2台,mitv://147.135.39.171:9906/600fee6d000232968ba10bcf54416fd9.m3u8
-彩虹E台,mitv://147.135.39.171:9906/600fee6d0009bd7d8ba10dc303734365.m3u8
-彩虹電影,mitv://147.135.39.171:9906/600fee6e0000c8ea8ba10f5a23b93460.m3u8
-Playboy,mitv://147.135.39.171:9906/5e73be64000bc4a119b463b625bf0790.m3u8
-潘朵拉粉紅,mitv://147.135.39.171:9906/600fee6b000b9a9b8ba106705fcc6fbe.m3u8
-潘朵拉完美,,mitv://147.135.39.171:9906/600fee6c0003b9df8ba10855530a6dc7.m3u8
-
-Mature,tvbus://5LEMrHGaq9xHdH6X7w788ggbUf12huvaPeS5kepsxNED5jcf8XeUn5BQdCBjs
-Latina,tvbus://6HdxNYSHg9jwd4o6JZpYt1UjmvngTJ4DG1F25u8t9dRQJQ3JsM68qW3tJ1ggG
-HD,tvbus://5sKux8SFKgzeiQimkhPNZfUSfC5GwCgtcfKEB5RTXsUGDRD3aYz6UNhV61vZT
-Hardcore,tvbus://6hu2htv7ndBFx99NqxEkYvswHPBo1PFxtGMbc1tiMDbXkLHZvyKsnkCmpXGfk
-
 LEO TV HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 松視1歐美版,http://live.redtraffic.xyz:80/fetish.m3u8
 松視2歐美版,http://live.redtraffic.xyz:80/interracial.m3u8
@@ -580,25 +564,3 @@ hustler hd,http://51.15.0.141:88/hustlerhd/index.m3u8
 redlight hd,http://51.15.0.141:88/redlightHD/index.m3u8
 
 測試,#genre#
-松視➊臺備,rtmp://161.202.204.248:1935/tv/ttv11
-松視➊臺備,p5p://45.86.67.154:9906/608857aa0008e95c0f48d9cb3b7db140.ts
-松視➋臺備,p5p://45.86.67.154:9906/608857da0000c3a40f499335d3dd3c2f.ts
-驚豔台Amazing HD,p5p://45.86.67.154:9906/608858090008d7df0f4a4cdf0b6a378b.ts
-香蕉台Banana,p5p://45.86.67.154:9906/608858b300032d400f4ce37b5b3165d3.ts
-Ⓗappy頻道,rtmp://161.202.204.248:1935/tv/ttv12
-ⒽOT,p5p://45.86.67.154:9906/608be96500093cd403418b48bfc325c1.ts
-LOOK TV,p5p://45.86.67.154:9906/608be9b2000514b40342b6ffdcae6771.ts
-潘多拉玩美台Perfect,p5p://45.86.67.154:9906/60885835000df6a60f4afa0edd0a04e6.ts
-潘多拉粉红台Pink,p5p://45.86.67.154:9906/608858600001ceac0f4b9ee9d6e55ce1.ts
-彩虹E台Rainbow Channel,p5p://45.86.67.154:9906/6088577b000703e70f4821b7caacc0c8.ts
-彩虹電影Rainbow Movies,p5p://45.86.67.154:9906/608be98b000658ff03421efa31b1b7e3.ts
-日本J-Girl,p5p://45.86.67.154:9906/5d5992d900092aec076d9701a5d05e67.ts
-日本PPV-1,p5p://45.86.67.154:9906/608856e1000e0e8a0f45c9f495659823.ts
-日本加勒比无码,p5p://45.86.67.154:9906/5d599556000458b807774e0d94f7b8e4.ts
-日本东京热无码,p5p://45.86.67.154:9906/5d59959d0008801e07786475971fae8c.ts
-日本一本道无码,p5p://45.86.67.154:9906/5d59962f00074b49077a9e76646ad3d6.ts
-日本天热素人无码,p5p://45.86.67.154:9906/5d59966d000e5f60077b9276d8257da1.ts
-中字有码1,p5p://45.86.67.154:9906/6088559700006d6a0f40bd67867e9505.ts
-中字有码2,p5p://45.86.67.154:9906/608855c400097d900f416f8130c4b7e2.ts
-
-
