@@ -506,6 +506,7 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 電影台,#genre#
 周星馳電影1,http://auney.gearhostpreview.com/huya.php?id=11342412
 周星馳電影2,http://qj.yyrjdp.cn/jiuban/huya.php?id=11342412
+周星馳電影3,http://tyzb999.chxjon.cn/iptv/公众号=太阳资讯/tyzb09.php?id=11342412
 林正英,http://qj.yyrjdp.cn/jiuban/huya.php?id=11342421
 成龍,http://qj.yyrjdp.cn/jiuban/huya.php?id=11342386
 李連杰,http://qj.yyrjdp.cn/jiuban/huya.php?id=11342390
