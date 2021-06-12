@@ -478,5 +478,77 @@ Rough,http://cdn.adultiptv.net/rough.m3u8
 RUsskayanoch,http://93.189.224.117:9030/russkayanoch
 hustler hd,http://51.15.0.141:88/hustlerhd/index.m3u8
 redlight hd,http://51.15.0.141:88/redlightHD/index.m3u8
+ALBA XXX 1,http://iptv.xprime.one/179/mono.m3u8
+Penthouse Quickers,http://iptv.xprime.one/169/mono.m3u8
+ALBA XXX 2,http://iptv.xprime.one/180/mono.m3u8
+Vivid Red,http://iptv.xprime.one/163/mono.m3u8
+Redlight HD,http://iptv.xprime.one/158/mono.m3u8
+ALBA XXX 3,http://iptv.xprime.one/181/mono.m3u8
+Fake Taxi HD,http://iptv.xprime.one/171/mono.m3u8
+Super One HD,http://iptv.xprime.one/173/mono.m3u8
+Penthouse Gold HD,http://iptv.xprime.one/161/mono.m3u8
+Brazzers TV Europe,http://iptv.xprime.one/156/mono.m3u8
+Blue Hustler TV,http://iptv.xprime.one/151/mono.m3u8
+XY Mix HD,http://iptv.xprime.one/175/mono.m3u8
+Dorcel TV HD,http://iptv.xprime.one/164/mono.m3u8
+EXTASY 4K,http://iptv.xprime.one/182/mono.m3u8
+Reality Kings TV,http://iptv.xprime.one/177/mono.m3u8
+HotClub,http://iptv.xprime.one/178/mono.m3u8
+Penthouse HD,http://iptv.xprime.one/160/mono.m3u8
+Private TV HD,http://iptv.xprime.one/162/mono.m3u8
+XXX RED,http://iptv.xprime.one/172/mono.m3u8
+Русская Ночь,http://iptv.xprime.one/150/mono.m3u8
+XY Plus HD,http://iptv.xprime.one/176/mono.m3u8
+Playboy,http://iptv.xprime.one/152/mono.m3u8
+FashionTV,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+TasteMade,https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
+&Prive HD,https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+&Flix HD,https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+Adult Dorcel TV (P),http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/447252
+18+: DorcelClub,http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470395
+Dusk!,http://directtv1.xyz:80/Freddie/Freddie/92212
+18+: HotCrazyMess,http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470413
+18+: LittleAsians,http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470421
+18+: Watch4Beauty,http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470454
+18+: X-Art,http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470457
+REALITY KINGS,http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4784
+VIXEN,http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4786
+XXX: REDLIGHT,http://tv1.cs10.tv:80/leopoldo/leopoldo/2210
+Petite,http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470432
+18+: Karupsow,http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470418
+21Naturals,http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470465
+Adult Playboy TV,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87443
+Adult Playboy TV USA,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87444
+18+: PlayboyPlus,http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470433
+18+: Babes,http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470355
+superone,http://185.96.176.139:8080/superone/index.m3u8
+18+: BadMilfs,http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470356
+XXX | PERV MOM,http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4782
+18+: FamilyStrokes,http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470364
+18+: FilthyFamily,http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470403
+XXX | FAMILY XXX,http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4775
+Adult Sensation 1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/88544
+Penthouse Gold FHD (18+),http://mypanel.tv:8080/Antoniomag/tst8osdw2f/13863
+Penthouse Quickies FHD (18+) US,http://mypanel.tv:8080/Antoniomag/tst8osdw2f/13862
+Adult Xtreme Satisfaction,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87457
+Adult Pinko 1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87441
+Adult Pinko 2,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87442
+Adult Paradise 1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91592
+Adult Paradise 2,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91593
+Adult Paradise 3,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91594
+Adult Paradise 4,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91595
+Adult Paradise,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91596
+Adult Paradise 6,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91597
+Adult Paradise 7,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91598
+Adult Paradise 8,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91599
+Adult Paradise 9,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91600
+Adult Paradise 10,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91601
+18+: SexWithMuslims,http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470441
+18+: FakeTaxi,http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470400
+PUBLICAGENT 1,http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4760
+XXX | PUBLIcAGENT 2,http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4761
+18+: WankItNow,http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470453
+18+: WaitressPOV_Website : mrcrackpro.blogspot.com
+Fashion TV Midnite,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 
 測試,#genre#
