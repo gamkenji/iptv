@@ -422,9 +422,6 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 周星馳電影1,http://auney.gearhostpreview.com/huya.php?id=11342412
 周星馳電影2,http://qj.yyrjdp.cn/jiuban/huya.php?id=11342412
 周星馳電影3,http://tyzb999.chxjon.cn/iptv/公众号=太阳资讯/tyzb09.php?id=11342412
-林正英,http://qj.yyrjdp.cn/jiuban/huya.php?id=11342421
-成龍,http://qj.yyrjdp.cn/jiuban/huya.php?id=11342386
-李連杰,http://qj.yyrjdp.cn/jiuban/huya.php?id=11342390
 成龍電影,http://42.81.144.99/live.cache.cmvideo.cn/wd_r2/virtuallive/5102010211/150/index.m3u8?&encrypt=1
 張國榮電影,http://42.81.144.99/live.cache.cmvideo.cn/wd_r3/virtuallive/5102354727/150/index.m3u8?&encrypt=1
 周星馳電影,http://42.81.144.99/live.cache.cmvideo.cn/wd_r3/virtuallive/5100144102/150/index.m3u8?&encrypt=1
@@ -436,6 +433,7 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
 
 18+_711211,#genre#
+極限電影,tvbus://6Cut46PBMejuFgxUEWoRa9Neyf1qJBg6vkPX78vkVH71dnNZ1cbH4fup3TZ72
 Petite,http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470432
 BadMilfs,http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470356
 Babes,http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470355
