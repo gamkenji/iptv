@@ -72,6 +72,7 @@ tvbus電影台,#genre#
 衛視電影3,tvbus://6TYstdwjGu5PCmLandzpyAdnYYbt4ZePzsdKn76svDQprAr7mQts2p1KikVqx
 衛視洋片1,tvbus://6XGv6YSjnqxvJN9TZdVEfCf2mRDL9Q3VofDWhpMHUsLopzJVJHPudZ7nUFbi2
 衛視洋片2,tvbus://6uXf7tLjQEi9x8FRTh3eFMLDxvrUV643QLBPAxsyPR5NTBB545
+衛視卡式台,tvbus://5XASRw3ac7CzLwLsAMqbESqBHmdXNWixfXTVw7BTiEs14NfUKD5metCuQNXZm
 東森電影1,tvbus://5KVKy5MZ69VvVapedT8GC56zKNGuoCD4eqyfgwppcwFPYdc4GK5ghmydBRehB
 東森電影2,tvbus://842MQ89LSM4MXqVbmtTY82FSVVHYDQ7MEFtu7NzeeDXY4dNGaw
 東森電影3,tvbus://5fnK4ncrmUBiAai25pDbktTiswjBfoz44V9pJ4aLJY54SFpjdWYMWQsB2wAgA
@@ -115,6 +116,7 @@ FOX動作,tvbus://6EPSdeqvXNb7KLxD89cY9miiqJ9Ug4fneLZQwmcwvdNYNitf7SnQaT923uaCf
 FOX犯罪,tvbus://5SfH5CqHH7Caop9yq7RPojibWTmSthiuZgcoAzjJ4zakagDu6mDGnV1Rz5XPP
 AXN1,tvbus://6Tuzxb72WjjEXqCn6YG8YU4dPChX78TuWQC1k1kE3SR8XtV19RuHJJtobrPfw
 AXN2,tvbus://5Xa5Xi6H8hrChXWA3cxbieDjMgJ3YBxcsxZdah27A8PCAQeP92UDypH2uXdZQ
+AXN亞洲HD,tvbus://6WG8BTRFzxnJwQSo2vpcuiSmRxGHRavo1Ci5YxzM3Yd4QPenhQx56gxkzeWh
 好萊塢電影1,tvbus://5KrB5QCAYhhvfJ4c8jiUPu9HfpP4i2wnjDZXU1ATJAQpzAYzcwfZjRPVL8iHP
 好萊塢電影2,tvbus://5mZuWreLzTUCP1PsypWqFGy9SKFybZcbqJbB9KWsVALtKHdGE7gw4Ckbgv7AR
 華納電影1,tvbus://5nx3ew6pSzsNypijptouK8okba1QBASVFvb75jSokUVoCesubL4qCf1XfU5PU
@@ -123,6 +125,9 @@ CINEMAX_HD1,tvbus://5ehU7TgbheBuRFcsKK1PQFhccU1RWD51wYKTrKuYtm4DHX3r7HcWhFuADKd8
 CINEMAX_HD2,tvbus://5Qw9N9pt5zcsdoWSupAV43E6yYLF7RxVBn2zVCXW6uRs16gdzqb1AzSKUPEjH
 CatchPlay電影,tvbus://5KkNqoQ2jK5w7Z4RqFLiDppxWv29gctUDiNm2XTMwuZertsfjNARUPM9Ymix7
 FX,tvbus://5mNudv1NY7oPmaoFhPdfh4HbvUVkppCsqHn1wmQPHo2jVYCveHurYcfbfHSQF
+KIX動作電影1,tvbus://5rYdSoNssjhawwp6RDjSWBTp2BUnaCfTJ2raTAi4DMfN2F1YNxwq9J8yesBri
+KIX動作電影2,tvbus://5pbjjt9rwu6Y3WEGT7jkBZb8xgLFVDfGmqThLudHBGSouMXgoivDHFu8pM8xD
+爆谷台,tvbus://5TyTrVuP5Ux1Wnngj1vBqZvtBEk6EdWymRxHcXa3ppqn4yZK1gk12R9rwnifG
 
 tvbus卡通台,#genre#
 MOMO親子1,tvbus://5X5Hd9WdA5SySjWsbASTc8rbcxfcYewnPnvy59KegMAhWFrA16sHebm9L8Xqn
@@ -228,6 +233,8 @@ TVBS精采,tvbus://6XbZPjUSREcXYoh1NWQ6LmTHS54rREPg8e4kEnWaHzcRZaspKcN5h9HxPGgM4
 JET綜合1,tvbus://5U1W3wwHj8CaXbN9pHyGxavr3cDQrh8Z8VXTRHLKB4XCLCKE2kSk8pd93goqv
 靖天映畫,tvbus://5Y2LJHzn8EExip1PfcGApZxJLg7qUzqWpf7NiWvencGEnBEe9db9pCd5TrpHc
 靖洋戲劇台,tvbus://6ZBX5si4NTQrSwWLTk2qkedmK6EmeYQNaeRyKkQjuhDTzp1uTmM1TLQK5KWQK
+大愛電視,tvbus://7DCyc4FLPENQTLThfYHS1yDF7cyBAVr3FVHD9YTvVk2AiWtQT3
+大愛二台,tvbus://5gpZ12gBUN956QP3NRzrmDxarUBuCFwnrLoahRr6f7w9h3cJxLVxjVXKXXeHy
 MTV_Live,tvbus://6KkQcWWPHAd5MuTaseQeai1b1o8Zx3zwS7LtXzERkChRirKYMUkjgRdeYS4Xs
 龍華戲劇,tvbus://5bBUJ3ztc56iCX5ZBkbapFa2Be5D7LXUi2sa6F29oghRGfcnS3sUXZGogQLTU
 亞洲旅遊台,tvbus://6TGif8EbHMdyDFXSrEwTcoPZXaAuPMgDjDLNLLcgmTZEHxv7Snj16RYxM98ZM
@@ -440,13 +447,6 @@ Babes,http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470355
 RUsskayanoch,http://93.189.224.117:9030/russkayanoch
 hustler hd,http://51.15.0.141:88/hustlerhd/index.m3u8
 redlight hd,http://51.15.0.141:88/redlightHD/index.m3u8
-Vivid Red,http://iptv.xprime.one/163/mono.m3u8
-Redlight HD,http://iptv.xprime.one/158/mono.m3u8
-Blue Hustler TV,http://iptv.xprime.one/151/mono.m3u8
-Dorcel TV HD,http://iptv.xprime.one/164/mono.m3u8
-Private TV HD,http://iptv.xprime.one/162/mono.m3u8
-Русская Ночь,http://iptv.xprime.one/150/mono.m3u8
-Playboy,http://iptv.xprime.one/152/mono.m3u8
 FashionTV,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 Adult Dorcel TV (P),http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/447252
 18+: DorcelClub,http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470395
