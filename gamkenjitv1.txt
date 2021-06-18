@@ -467,15 +467,6 @@ Adult Paradise 10,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91601
 PUBLICAGENT 1,http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4760
 測試,#genre#
 小猪佩奇,http://tyzb999.chxjon.cn/iptv/公众号=太阳资讯/tyzb04.php?id=1800487
-小猪佩奇1,http://tyzb999.chxjon.cn/iptv/公众号=太阳资讯/tyzb05.php?id=xzpq
 宝宝巴士,http://tyzb999.chxjon.cn/iptv/公众号=太阳资讯/tyzb04.php?id=1800641
 巧虎,http://tyzb999.chxjon.cn/iptv/公众号=太阳资讯/tyzb04.php?id=1800622
-海底小纵队,http://tyzb999.chxjon.cn/iptv/公众号=太阳资讯/tyzb05.php?id=hdxzd
-汪汪队立大功,http://tyzb999.chxjon.cn/iptv/公众号=太阳资讯/tyzb05.php?id=wwdldg
 
-林正英,http://tyzb999.chxjon.cn/iptv/公众号=太阳资讯/tyzb05.php?id=lzy
-周星驰1,http://tyzb999.chxjon.cn/iptv/公众号=太阳资讯/tyzb05.php?id=zxc
-周星驰2,http://tyzb999.chxjon.cn/iptv/公众号=太阳资讯/tyzb05.php?id=zxc2
-周星驰3,http://tyzb999.chxjon.cn/iptv/公众号=太阳资讯/tyzb05.php?id=zxc3
-李连杰,http://tyzb999.chxjon.cn/iptv/公众号=太阳资讯/tyzb05.php?id=llj
-周润发,http://tyzb999.chxjon.cn/iptv/公众号=太阳资讯/tyzb05.php?id=zrf2
