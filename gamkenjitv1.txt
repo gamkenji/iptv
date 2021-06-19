@@ -389,7 +389,6 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 壹新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 壹新聞台2,http://stream.nexttv.com.tw/n001/playlist.m3u8
 東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
-東森新聞1,rtmp://v3948069e.live.126.net/live/push1111
 寰宇新聞,http://seb.sason.top/sc/hyxw.m3u8
 三立Live新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
 三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
@@ -411,7 +410,7 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 靖天資訊,http://61.58.60.230:9319/live/202.m3u8
 靖天歡樂,http://61.58.60.230:9319/live/201.m3u8
 靖洋戲劇,http://61.58.60.230:9319/live/203.m3u8
-靖天育樂,http://61.58.60.230:9319/live/204.m3u8
+靖天天育樂,http://61.58.60.230:9319/live/204.m3u8
 靖天國際,http://61.58.60.230:9319/live/205.m3u8
 居家頻道,http://61.58.60.230:9319/live/125.m3u8
 大愛一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
@@ -438,18 +437,11 @@ RUsskayanoch,http://93.189.224.117:9030/russkayanoch
 hustler hd,http://51.15.0.141:88/hustlerhd/index.m3u8
 redlight hd,http://51.15.0.141:88/redlightHD/index.m3u8
 FashionTV,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-Adult Dorcel TV (P),http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/447252
 18+: DorcelClub,http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470395
-Dusk!,http://directtv1.xyz:80/Freddie/Freddie/92212
 18+: LittleAsians,http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470421
-REALITY KINGS,http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4784
-VIXEN,http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4786
 XXX: REDLIGHT,http://tv1.cs10.tv:80/leopoldo/leopoldo/2210
 18+: Karupsow,http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470418
 Adult Playboy TV,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87443
-Adult Playboy TV USA,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87444
-XXX | PERV MOM,http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4782
-XXX | FAMILY XXX,http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4775
 Adult Sensation 1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/88544
 Adult Xtreme Satisfaction,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87457
 Adult Pinko 1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87441
@@ -463,12 +455,11 @@ Adult Paradise 6,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91597
 Adult Paradise 7,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91598
 Adult Paradise 8,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91599
 Adult Paradise 9,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91600
-Adult Paradise 10,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91601
 18+: FakeTaxi,http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470400
-PUBLICAGENT 1,http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4760
+
 測試,#genre#
 小猪佩奇,http://tyzb999.chxjon.cn/iptv/公众号=太阳资讯/tyzb04.php?id=1800487
 宝宝巴士,http://tyzb999.chxjon.cn/iptv/公众号=太阳资讯/tyzb04.php?id=1800641
-巧虎,http://tyzb999.chxjon.cn/iptv/公众号=太阳资讯/tyzb04.php?id=1800622
+
 
 
