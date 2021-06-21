@@ -420,7 +420,6 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 電影台,#genre#
 周星馳電影1,http://auney.gearhostpreview.com/huya.php?id=11342412
 周星馳電影2,http://qj.yyrjdp.cn/jiuban/huya.php?id=11342412
-周星馳電影3,http://tyzb999.chxjon.cn/iptv/公众号=太阳资讯/tyzb09.php?id=11342412
 成龍電影,http://42.81.144.99/live.cache.cmvideo.cn/wd_r2/virtuallive/5102010211/150/index.m3u8?&encrypt=1
 張國榮電影,http://42.81.144.99/live.cache.cmvideo.cn/wd_r3/virtuallive/5102354727/150/index.m3u8?&encrypt=1
 周星馳電影,http://42.81.144.99/live.cache.cmvideo.cn/wd_r3/virtuallive/5100144102/150/index.m3u8?&encrypt=1
@@ -458,15 +457,5 @@ Adult Paradise 9,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91600
 18+: FakeTaxi,http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470400
 
 測試,#genre#
-小猪佩奇,http://tyzb999.chxjon.cn/iptv/公众号=太阳资讯/tyzb04.php?id=1800487
-宝宝巴士,http://tyzb999.chxjon.cn/iptv/公众号=太阳资讯/tyzb04.php?id=1800641
-洪金寶,http://121.12.115.15/tx.hls.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1-imgplus.m3u8
-劉德華,http://121.12.115.15/tx.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8
-李連傑,http://121.12.115.15/tx.hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.m3u8
-周星馳電影,http://121.12.115.15/tx.hls.huya.com/src/1099531728510-1099531728510-86331995155595264-2199063580476-10057-A-0-1.m3u8
-甄子丹,http://121.12.115.15/tx.hls.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1-imgplus.m3u8
-周潤发,http://121.12.115.15/tx.hls.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1-imgplus.m3u8
-成龍,http://121.12.115.15/tx.hls.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1-imgplus.m3u8
-
 
 
