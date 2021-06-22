@@ -457,5 +457,6 @@ Adult Paradise 9,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91600
 18+: FakeTaxi,http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470400
 
 測試,#genre#
-
-
+周星驰电影,http://42.81.144.99/live.cache.cmvideo.cn/wd_r3/virtuallive/5100144102/150/index.m3u8?&encrypt=1
+刘德华电影,http://42.81.144.99/live.cache.cmvideo.cn/wd_r3/virtuallive/5102354855/150/index.m3u8?&&encrypt=1
+成龙电影,http://42.81.144.99/live.cache.cmvideo.cn/wd_r2/virtuallive/5102010211/150/index.m3u8?&encrypt=1
