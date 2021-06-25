@@ -436,10 +436,7 @@ RUsskayanoch,http://93.189.224.117:9030/russkayanoch
 hustler hd,http://51.15.0.141:88/hustlerhd/index.m3u8
 redlight hd,http://51.15.0.141:88/redlightHD/index.m3u8
 FashionTV,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-18+: DorcelClub,http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470395
-18+: LittleAsians,http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470421
 XXX: REDLIGHT,http://tv1.cs10.tv:80/leopoldo/leopoldo/2210
-18+: Karupsow,http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470418
 Adult Playboy TV,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87443
 Adult Sensation 1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/88544
 Adult Xtreme Satisfaction,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87457
@@ -454,7 +451,6 @@ Adult Paradise 6,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91597
 Adult Paradise 7,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91598
 Adult Paradise 8,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91599
 Adult Paradise 9,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91600
-18+: FakeTaxi,http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470400
 
 測試,#genre#
 周星驰电影,http://42.81.144.99/live.cache.cmvideo.cn/wd_r3/virtuallive/5100144102/150/index.m3u8?&encrypt=1
