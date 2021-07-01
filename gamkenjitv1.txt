@@ -66,46 +66,33 @@ TVBS新聞台,rtmp://161.202.204.248:1935/sat/tv551
 東森超視2,rtmp://161.202.204.248/sat/tv771
 東森財經新聞,rtmp://161.202.204.248:1935/sat/tv571
 MoMo綜合台,rtmp://161.202.204.248/sat/tv761
-FOX體育,rtmp://161.202.204.248:1935/sat/tv731
-FOX體育2,rtmp://161.202.204.248:1935/sat/tv741
-FOX體育3,rtmp://161.202.204.248:1935/sat/md031
-fox3,rtmp://161.202.204.248:1935/sat/md021
-愛爾達體育1台,rtmp://161.202.204.248/sat/md021
-愛爾達體育1台2,rtmp://161.202.204.248:1935/sat/md041
-愛爾達體育2台,rtmp://161.202.204.248/sat/md011
+ELEVEN+,rtmp://161.202.204.248:1935/sat/md021
+ELEVEN+2,rtmp://161.202.204.248/sat/md021
+ELEVEN2,rtmp://161.202.204.248/sat/md011
 愛爾達體育3台,rtmp://161.202.204.248/sat/md051
-日本MLB,rtmp://161.202.204.248:1935/sat/jp071
-ELEVEN2,rtmp://161.202.204.248/sat/md031
-ELEVEN+,rtmp://161.202.204.248/sat/md041
 
 629rtmp源59,#genre#
 民視,rtmp://59.124.75.153/sat/tv051
 台視,rtmp://59.124.75.153/sat/tv071
 中視,rtmp://59.124.75.153/sat/tv091
 華視,rtmp://59.124.75.153/sat/tv111
-TVBS·歡樂台,rtmp://59.124.75.153/sat/tv421
-TVBS歡樂,rtmp://59.124.75.153:1935/sat/tv421
-TVBS·新聞台,rtmp://59.124.75.153/sat/tv551
-TVBS新聞,rtmp://59.124.75.153:1935/sat/tv551
+TVBS歡樂台1,rtmp://59.124.75.153/sat/tv421
+TVBS歡樂台2,rtmp://59.124.75.153:1935/sat/tv421
+TVBS新聞台1,rtmp://59.124.75.153/sat/tv551
+TVBS新聞台2,rtmp://59.124.75.153:1935/sat/tv551
 東森財經新聞,rtmp://59.124.75.153:1935/sat/tv571
 緯來日本,rtmp://59.124.75.153:1935/sat/tv521
 緯來育樂1,rtmp://59.124.75.153/sat/tv701
 緯來育樂2,rtmp://59.124.75.153:1935/sat/tv701
 緯來體育1,rtmp://59.124.75.153/sat/tv721
 緯來體育2,rtmp://59.124.75.153:1935/sat/tv721
-FOX體育,rtmp://59.124.75.153:1935/sat/tv731
-FOX2體育,rtmp://59.124.75.153:1935/sat/tv741
 MoMo綜合台1,rtmp://59.124.75.153/sat/tv761
 MoMo綜合台2,rtmp://59.124.75.153:1935/sat/tv761
 東森超視1,rtmp://59.124.75.153/sat/tv771
 東森超視2,rtmp://59.124.75.153:1935/sat/tv771
-愛爾達體育1台,rtmp://59.124.75.153/sat/md021
-愛爾達體育2台,rtmp://59.124.75.153/sat/md011
+ELEVEN+,rtmp://59.124.75.153/sat/md021
+ELEVEN2,rtmp://59.124.75.153/sat/md011
 愛爾達體育3台,rtmp://59.124.75.153/sat/md051
-ELEVEN+體育1,rtmp://59.124.75.153:1935/sat/md031
-ELEVEN+體育2,rtmp://59.124.75.153:1935/sat/md041
-ELEVEN2體育1,rtmp://59.124.75.153/sat/md051
-ELEVEN2體育2,rtmp://59.124.75.153:1935/sat/md031
 
 mitv源,#genre#
 TVBS新聞,mitv://fccsovh.pvbox.live:18912/5c2dd76300095ef4ca7620ece66109ec.ts,mitv://fccsovh.pvbox.live:18912/5b1409600008c73bd46bfb2af1f5ae94.ts,mitv://fccseuro.pvbox.live:18912/5c7249c2000e510f1d57a75a30592ee2.ts,mitv://fccseuro.pvbox.live:18912/5c2dd76300095ef4ca7620ece66109ec.ts
@@ -255,9 +242,8 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 紅牛REDBULL TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 電影台,#genre#
-周星馳電影1,http://auney.gearhostpreview.com/huya.php?id=11342412
-周星馳電影2,http://qj.yyrjdp.cn/jiuban/huya.php?id=11342412
-周星馳電影3,http://42.81.144.99/live.cache.cmvideo.cn/wd_r3/virtuallive/5100144102/150/index.m3u8?&encrypt=1
+周星馳電影1,http://qj.yyrjdp.cn/jiuban/huya.php?id=11342412
+周星馳電影2,http://42.81.144.99/live.cache.cmvideo.cn/wd_r3/virtuallive/5100144102/150/index.m3u8?&encrypt=1
 劉德華電影,http://42.81.144.99/live.cache.cmvideo.cn/wd_r3/virtuallive/5102354855/150/index.m3u8?&&encrypt=1
 成龍電影,http://42.81.144.99/live.cache.cmvideo.cn/wd_r2/virtuallive/5102010211/150/index.m3u8?&encrypt=1
 張國榮電影,http://42.81.144.99/live.cache.cmvideo.cn/wd_r3/virtuallive/5102354727/150/index.m3u8?&encrypt=1
