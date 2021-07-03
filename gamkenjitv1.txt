@@ -272,8 +272,7 @@ Food亞洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 緯來電影台,http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8
 天映電影台,http://50.7.161.82:8278/Celestial2/playlist.m3u8?tid=m02000000000010416484&ct=17955&tsum=cd7dbff483b639f549b95320c78a1f3b
 天映頻道HD,http://50.7.161.82:8278/Celestial/playlist.m3u8?tid=m02000000000014496578&ct=17956&tsum=808f037499700f0538f13ea983dce703
-HBO1,http://198.16.106.62:8278/sundance_twn/playlist.m3u8?tid=mfe0bf4686c6d&ct=18335&tsum=14c57b1bfb62b277d396eb3cf14f26c6
-HBO2,http://198.16.106.62:8278/sundance_twn/playlist.m3u8?tid=m02000000000017768575&ct=17955&tsum=c3ecd772420130079ba147320f61cc12
+HBO,http://198.16.106.62:8278/sundance_twn/playlist.m3u8?tid=m02000000000017768575&ct=17955&tsum=c3ecd772420130079ba147320f61cc12
 HBO原創電影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
 FOX,http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
 FOX犯罪電影,http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
