@@ -259,8 +259,7 @@ ELTA綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 中天綜合台1,http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8
 中天綜合台2,http://198.16.106.62:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
 三立綜合台,http://198.16.106.62:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
-民視1,http://198.16.106.62:8278/streams/d/ftvhd_taiwan/playlist.m3u8
-民視2,http://198.16.106.62:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce
+民視,http://198.16.106.62:8278/streams/d/ftvhd_taiwan/playlist.m3u8
 民視台灣台,http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8
 三立台灣1,http://198.16.106.62:8278/streams/d/sanlitaiwan/playlist.m3u8
 三立台灣2,http://198.16.106.62:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
