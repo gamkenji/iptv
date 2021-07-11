@@ -227,7 +227,7 @@ JET綜合1,tvbus://5U1W3wwHj8CaXbN9pHyGxavr3cDQrh8Z8VXTRHLKB4XCLCKE2kSk8pd93goqv
 靖洋戲劇台,tvbus://6ZBX5si4NTQrSwWLTk2qkedmK6EmeYQNaeRyKkQjuhDTzp1uTmM1TLQK5KWQK
 大愛電視,tvbus://7DCyc4FLPENQTLThfYHS1yDF7cyBAVr3FVHD9YTvVk2AiWtQT3
 大愛二台,tvbus://5gpZ12gBUN956QP3NRzrmDxarUBuCFwnrLoahRr6f7w9h3cJxLVxjVXKXXeHy
-MTV_Live,tvbus://6KkQcWWPHAd5MuTaseQeai1b1o8Zx3zwS7LtXzERkChRirKYMUkjgRdeYS4Xs
+MTV_LIVE_HD,tvbus://5YS1LUZgi5WvmrEVXGSADZBV6vJsKC23E8MrMuch7DqNRCn4pHkjjEVrdKJfG
 龍華戲劇,tvbus://5bBUJ3ztc56iCX5ZBkbapFa2Be5D7LXUi2sa6F29oghRGfcnS3sUXZGogQLTU
 亞洲旅遊台,tvbus://6TGif8EbHMdyDFXSrEwTcoPZXaAuPMgDjDLNLLcgmTZEHxv7Snj16RYxM98ZM
 美食星球頻道1,tvbus://63uxhzeBficQALWigXLjuifUxLJH9CsqtXXVjTDCQyXGBxGgXTzxVucFY1x35
@@ -242,6 +242,7 @@ EYE_TV戲劇台,tvbus://5WmNR3P9mdwzYuLBr8ecBLi9m8V7DjTJfm4SgM4tmqQqr7RMiFASqTS8
 Z頻道,tvbus://6R1Mb1nKR5CvDNMeoPgdwFbgR4hAT8GoYmjAmg71KpcS1CnCZNqcsb5gvj6vq
 愛奇藝,tvbus://66FRpocmtD6gMwzcvdFBh66GfamAqyNA5s1b9FrEKnuUnjQXsQn7zs6YAR55g
 tvN,tvbus://65KYwFzVqS88CUAqVYKj9ymf7R7CLMNHhbVB7DnYMHezRAzZLkEWqrFpkah2N
+
 
 629台灣源,#genre#
 TVBS新聞台1,http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
@@ -814,20 +815,6 @@ Adult Paradise 8,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91599
 Adult Paradise 9,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91600
 
 測試,#genre#
-MTV_Live,tvbus://6KkQcWWPHAd5MuTaseQeai1b1o8Zx3zwS7LtXzERkChRirKYMUkjgRdeYS4Xs
-SURIA,tvbus://62xGqAyoBJKEHJeCh7mUFAKeai11idKJhk85XHLf17KqdoYXxzKiUS9pRxcH6
-CCTV15,tvbus://5m88fDW6wf9NiCqtP5phjWPXR8s7DPas7ckE8ZBxuLXgdyAupwQtutgmiHr5y
-ミュージック・ジャパンTV,tvbus://6SFSB9fvS9GLPpKFBuQ9SpFYUfZMLyra7AcgsPrR51J1wC8Dtjo7sBjjdD6f6
-Mnet,tvbus://6iEk9fVBmM3vSTcYXbwbFAsWSWa9wYa5VusUasgYLSjhGNNJz5ykEPU6uDq3j
-SUNMUSIC,tvbus://6hCmxzxuAVX8BahG7ZaDx55XPZrUcFqMmaikZBG6RkcnetwJVefLhjqywH3QR
-Sun_Music_HD,tvbus://5UqR917ijwsCNKJeBhQBS59ni9f5wvY4ezCjMRim5LyMvgtFWCUfJcpdmbCPV
-sunmusic,tvbus://62kyEciqNKqv4nm56D9AyTvh9pAFH8HweF4chr8T8P5PP78t4qPiJ4XUTh69t
-MTV_LIVE_HD,tvbus://5YS1LUZgi5WvmrEVXGSADZBV6vJsKC23E8MrMuch7DqNRCn4pHkjjEVrdKJfG
-民視第一台HD,http://www.ubvip1688.com/ublive/5b53fe51d6f96db0.m3u8
-民視,http://www.ubvip1688.com/ublive/f56cdbb716f9e0af.m3u8
-民視台湾台,http://www.ubvip1688.com/ublive/1572702e86ad74c5.m3u8
-中视,http://www.ubvip1688.com/ublive/189236c85a9e18b9.m3u8
-中视经典,http://www.ubvip1688.com/ublive/287c5e7f1ad636df.m3u8
-中视菁彩,http://www.ubvip1688.com/ublive/0dbbcc64bbfeda67.m3u8
-华视,http://www.ubvip1688.com/ublive/636da9c9179ac2bb.m3u8
-台视,http://www.ubvip1688.com/ublive/632b4e0cd23855e4.m3u8
+
+
+
