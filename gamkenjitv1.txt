@@ -798,7 +798,6 @@ RUsskayanoch,http://93.189.224.117:9030/russkayanoch
 hustler hd,http://51.15.0.141:88/hustlerhd/index.m3u8
 redlight hd,http://51.15.0.141:88/redlightHD/index.m3u8
 FashionTV,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-XXX: REDLIGHT,http://tv1.cs10.tv:80/leopoldo/leopoldo/2210
 Adult Playboy TV,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87443
 Adult Sensation 1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/88544
 Adult Xtreme Satisfaction,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87457
@@ -813,6 +812,22 @@ Adult Paradise 6,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91597
 Adult Paradise 7,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91598
 Adult Paradise 8,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91599
 Adult Paradise 9,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91600
+O la la,http://5.128.254.228:81/udp/239.1.6.34:1234
+Hustler HD,http://directtv1.xyz:80/Freddie/Freddie/130758
+Bikini TV,https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
+Vivid Red,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3770
+Vivid TV Europe,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3771
+U Bang,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3769
+Wank It Now,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3773
+We Live Together,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3774
+White Boxxx,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3775
+Wicked,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3776
+Wild on Cam,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3777
+Xpanded TV,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3778
+XXL,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3779
+XY Max,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3780
+XY Mix,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3781
+XY Plus,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3782
 
 測試,#genre#
 
