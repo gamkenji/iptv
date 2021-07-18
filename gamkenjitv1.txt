@@ -838,5 +838,8 @@ CN卡通測試,http://125.227.210.37:16671/VideoInput/play.ts
 非凡新聞測試,http://125.227.210.37:15078/VideoInput/play.ts
 緯來体育測試,http://125.227.210.37:18358/VideoInput/play.ts
 FX HD測試,http://125.227.210.37:13498/VideoInput/play.ts
-
+HBO-综合,http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
+HBO-综合2http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+HBO-强档,http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+HBO-原创,http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 
