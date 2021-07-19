@@ -250,19 +250,15 @@ TVBS新聞台2,http://198.16.106.62:8278/tvbs_n/playlist.m3u8?tid=m4a218f9aa395&
 三立新聞,http://198.16.106.62:8278/streams/d/sanlinews_zero/playlist.m3u8
 
 TVBS歡樂,http://198.16.106.62:8278/streams/d/tvbsgbk_twn/playlist.m3u8
-TVBS1,http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8
-TVBS2,http://198.16.106.62:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
+TVBS,http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8
 緯來日本台,http://198.16.106.62:8278/streams/d/videolandjapan_zero/playlist.m3u8
 緯來精彩台,http://198.16.106.62:8278/streams/d/videolandspecial_zero/playlist.m3u8
 緯來戲劇台,http://198.16.106.62:8278/streams/d/videolandxiju_zero/playlist.m3u8
 緯來綜合台,http://198.16.106.62:8278/streams/d/videolandzonghe_zero/playlist.m3u8
-中天綜合台1,http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8
-中天綜合台2,http://198.16.106.62:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
-三立綜合台,http://198.16.106.62:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
+中天綜合台,http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8
 民視,http://198.16.106.62:8278/streams/d/ftvhd_taiwan/playlist.m3u8
 民視台灣台,http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8
-三立台灣1,http://198.16.106.62:8278/streams/d/sanlitaiwan/playlist.m3u8
-三立台灣2,http://198.16.106.62:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+三立台灣,http://198.16.106.62:8278/streams/d/sanlitaiwan/playlist.m3u8
 ELTA-綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 ELTA影劇台,http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
 TLC旅遊生活,http://198.16.106.62:8278/streams/d/tlcasia_zero/playlist.m3u8
@@ -270,9 +266,6 @@ Food亞洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 美食星球,http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
 
 緯來電影台,http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8
-天映電影台,http://50.7.161.82:8278/Celestial2/playlist.m3u8?tid=m02000000000010416484&ct=17955&tsum=cd7dbff483b639f549b95320c78a1f3b
-天映頻道HD,http://50.7.161.82:8278/Celestial/playlist.m3u8?tid=m02000000000014496578&ct=17956&tsum=808f037499700f0538f13ea983dce703
-HBO,http://198.16.106.62:8278/sundance_twn/playlist.m3u8?tid=m02000000000017768575&ct=17955&tsum=c3ecd772420130079ba147320f61cc12
 HBO原創電影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
 FOX,http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
 FOX犯罪電影,http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
@@ -817,19 +810,6 @@ Adult Paradise 9,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91600
 O la la,http://5.128.254.228:81/udp/239.1.6.34:1234
 Hustler HD,http://directtv1.xyz:80/Freddie/Freddie/130758
 Bikini TV,https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
-Vivid Red,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3770
-Vivid TV Europe,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3771
-U Bang,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3769
-Wank It Now,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3773
-We Live Together,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3774
-White Boxxx,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3775
-Wicked,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3776
-Wild on Cam,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3777
-Xpanded TV,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3778
-XXL,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3779
-XY Max,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3780
-XY Mix,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3781
-XY Plus,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3782
 
 測試,#genre#
 HBO測試,http://125.227.210.37:16027/VideoInput/play.ts
