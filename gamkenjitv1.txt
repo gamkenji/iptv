@@ -838,8 +838,28 @@ CN卡通測試,http://125.227.210.37:16671/VideoInput/play.ts
 非凡新聞測試,http://125.227.210.37:15078/VideoInput/play.ts
 緯來体育測試,http://125.227.210.37:18358/VideoInput/play.ts
 FX HD測試,http://125.227.210.37:13498/VideoInput/play.ts
+
+华纳电视,https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
+K I X·动作频道,https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+
+TVBS-综合台,http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8
+TVBS-欢乐台,http://198.16.106.62:8278/streams/d/tvbsgbk_twn/playlist.m3u8
+TVBS-新闻台,http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
+中天综合,http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8
+纬来综合,http://198.16.106.62:8278/streams/d/videolandzonghe_zero/playlist.m3u8
+纬来电影,http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8
+纬来戏剧,http://198.16.106.62:8278/streams/d/videolandxiju_zero/playlist.m3u8
+纬来精彩,http://198.16.106.62:8278/streams/d/videolandspecial_zero/playlist.m3u8
+纬来体育,http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8
+ELTA-综合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+ELTA-影剧台,http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
+
+中视新闻,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
+中视经典,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
+中视菁采,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
+中视,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
+华视,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
 HBO-综合,http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 HBO-综合2http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 HBO-强档,http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 HBO-原创,http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
-
