@@ -256,7 +256,6 @@ TVBS2,http://198.16.106.62:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&ts
 緯來精彩台,http://198.16.106.62:8278/streams/d/videolandspecial_zero/playlist.m3u8
 緯來戲劇台,http://198.16.106.62:8278/streams/d/videolandxiju_zero/playlist.m3u8
 緯來綜合台,http://198.16.106.62:8278/streams/d/videolandzonghe_zero/playlist.m3u8
-ELTA綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 中天綜合台1,http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8
 中天綜合台2,http://198.16.106.62:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
 三立綜合台,http://198.16.106.62:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
@@ -264,6 +263,7 @@ ELTA綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 民視台灣台,http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8
 三立台灣1,http://198.16.106.62:8278/streams/d/sanlitaiwan/playlist.m3u8
 三立台灣2,http://198.16.106.62:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+ELTA-綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 ELTA影劇台,http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
 TLC旅遊生活,http://198.16.106.62:8278/streams/d/tlcasia_zero/playlist.m3u8
 Food亞洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
@@ -280,6 +280,7 @@ FOX動作電影,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
 FOX家庭電影,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
 
 ELTA體育3台,http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8
+緯來體育,http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8
 
 Nickelodeon,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
 Nick Jr,http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
@@ -841,18 +842,6 @@ FX HD測試,http://125.227.210.37:13498/VideoInput/play.ts
 
 华纳电视,https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
 K I X·动作频道,https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
-
-TVBS-综合台,http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8
-TVBS-欢乐台,http://198.16.106.62:8278/streams/d/tvbsgbk_twn/playlist.m3u8
-TVBS-新闻台,http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
-中天综合,http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8
-纬来综合,http://198.16.106.62:8278/streams/d/videolandzonghe_zero/playlist.m3u8
-纬来电影,http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8
-纬来戏剧,http://198.16.106.62:8278/streams/d/videolandxiju_zero/playlist.m3u8
-纬来精彩,http://198.16.106.62:8278/streams/d/videolandspecial_zero/playlist.m3u8
-纬来体育,http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8
-ELTA-综合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
-ELTA-影剧台,http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
 
 中视新闻,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
 中视经典,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
