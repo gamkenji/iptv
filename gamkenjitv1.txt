@@ -244,8 +244,7 @@ Z頻道,tvbus://6R1Mb1nKR5CvDNMeoPgdwFbgR4hAT8GoYmjAmg71KpcS1CnCZNqcsb5gvj6vq
 tvN,tvbus://65KYwFzVqS88CUAqVYKj9ymf7R7CLMNHhbVB7DnYMHezRAzZLkEWqrFpkah2N
 
 629台灣源,#genre#
-TVBS新聞台1,http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
-TVBS新聞台2,http://198.16.106.62:8278/tvbs_n/playlist.m3u8?tid=m4a218f9aa395&ct=18335&tsum=363605ee081cb965cc0385c3f855a7e3
+TVBS新聞台,http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
 三立新聞,http://198.16.106.62:8278/streams/d/sanlinews_zero/playlist.m3u8
 
 TVBS歡樂,http://198.16.106.62:8278/streams/d/tvbsgbk_twn/playlist.m3u8
@@ -288,14 +287,6 @@ Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 中視新聞,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
 華視新聞資訊,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
 民視新聞,http://185.207.176.189:8080/channels/tw-302/playlist.m3u8  
-
-FOX-體育二台,http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
-FOX-體育三台,http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
-
-HBO-綜合,http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
-HBO-強檔,http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
-HBO-原創,http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
-
 中視經典,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
 中視菁采,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
 中視,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
@@ -304,15 +295,6 @@ HBO-原創,http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 民視,http://185.207.176.189:8080/channels/tw-300/playlist.m3u8  
 民視第一,http://185.207.176.189:8080/channels/tw-301/playlist.m3u8  
 民視台灣,http://185.207.176.189:8080/channels/tw-304/playlist.m3u8  
-TLC-旅遊生活,http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
-地理野生,http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8
-地理悠人,http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
-
-索尼動畫,http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
-迪士尼,http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
-CN卡通台,http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
-寶貝電視,http://185.180.221.194:8278/streams/d/Babytv/playlist.m3u8
-尼克兒童,http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
 
 629rtmp源161,#genre#
 民視1,rtmp://161.202.204.248/sat/tv052
