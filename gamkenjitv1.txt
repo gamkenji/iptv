@@ -820,14 +820,12 @@ CN卡通測試,http://125.227.210.37:16671/VideoInput/play.ts
 緯來体育測試,http://125.227.210.37:18358/VideoInput/play.ts
 FX HD測試,http://125.227.210.37:13498/VideoInput/play.ts
 
-华纳电视,https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
-K I X·动作频道,https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
-
 中视新闻,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
 中视经典,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
 中视菁采,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
 中视,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
 华视,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
+中天綜合,http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8
 HBO-综合,http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 HBO-综合2http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 HBO-强档,http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
