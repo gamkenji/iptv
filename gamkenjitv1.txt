@@ -618,8 +618,6 @@ Adult Paradise 6,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91597
 Adult Paradise 7,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91598
 Adult Paradise 8,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91599
 Adult Paradise 9,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91600
-O la la,http://5.128.254.228:81/udp/239.1.6.34:1234
-Hustler HD,http://directtv1.xyz:80/Freddie/Freddie/130758
 Bikini TV,https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
 
 測試,#genre#
