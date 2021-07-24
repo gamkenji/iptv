@@ -623,3 +623,8 @@ TVBS新聞測試,http://125.227.210.37:11055/VideoInput/play.ts
 非凡新聞測試,http://125.227.210.37:15078/VideoInput/play.ts
 緯來体育測試,http://125.227.210.37:18358/VideoInput/play.ts
 FX HD測試,http://125.227.210.37:13498/VideoInput/play.ts
+有线奥运601台,https://api.leonardpark.dev/live/icable/601
+有线奥运602台,https://api.leonardpark.dev/live/icable/602
+有线奥运603台,https://api.leonardpark.dev/live/icable/603
+有线奥运604台,https://api.leonardpark.dev/live/icable/604
+有线奥运605台,https://api.leonardpark.dev/live/icable/605
