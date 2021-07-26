@@ -613,21 +613,6 @@ Adult Paradise 7,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91598
 Adult Paradise 8,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91599
 Adult Paradise 9,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91600
 Bikini TV,https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
-
-測試,#genre#
-HBO測試,http://125.227.210.37:16027/VideoInput/play.ts
-東森洋片測試,http://125.227.210.37:18685/VideoInput/play.ts
-CN卡通測試,http://125.227.210.37:16671/VideoInput/play.ts
-TVBS新聞測試,http://125.227.210.37:11055/VideoInput/play.ts
-非凡新聞測試,http://125.227.210.37:15078/VideoInput/play.ts
-緯來体育測試,http://125.227.210.37:18358/VideoInput/play.ts
-FX HD測試,http://125.227.210.37:13498/VideoInput/play.ts
-有线奥运601台,https://api.leonardpark.dev/live/icable/601
-有线奥运602台,https://api.leonardpark.dev/live/icable/602
-有线奥运603台,https://api.leonardpark.dev/live/icable/603
-有线奥运604台,https://api.leonardpark.dev/live/icable/604
-有线奥运605台,https://api.leonardpark.dev/live/icable/605
-
 Visit-X ,http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
 Jasmin ,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 Nieuwe sinds ,http://93.189.224.117:9030/russkayanoch
@@ -736,4 +721,20 @@ AST.TV 2 ,http://www.ast.tv/stream/2/ultra.m3u8
 AST.TV 1,http://www.ast.tv/stream/1/ultra.m3u8
 苹果片,http://tube.cheerleaderfacials.com/trailers/609/cheerleaderfacial_Natalia_Rossi_0006.flv
 Web stream,http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
+
+測試,#genre#
+HBO測試,http://125.227.210.37:16027/VideoInput/play.ts
+東森洋片測試,http://125.227.210.37:18685/VideoInput/play.ts
+CN卡通測試,http://125.227.210.37:16671/VideoInput/play.ts
+TVBS新聞測試,http://125.227.210.37:11055/VideoInput/play.ts
+非凡新聞測試,http://125.227.210.37:15078/VideoInput/play.ts
+緯來体育測試,http://125.227.210.37:18358/VideoInput/play.ts
+FX HD測試,http://125.227.210.37:13498/VideoInput/play.ts
+有线奥运601台,https://api.leonardpark.dev/live/icable/601
+有线奥运602台,https://api.leonardpark.dev/live/icable/602
+有线奥运603台,https://api.leonardpark.dev/live/icable/603
+有线奥运604台,https://api.leonardpark.dev/live/icable/604
+有线奥运605台,https://api.leonardpark.dev/live/icable/605
+
+
 
