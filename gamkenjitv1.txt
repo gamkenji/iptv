@@ -272,7 +272,6 @@ FOX犯罪電影,http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
 FOX動作電影,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
 FOX家庭電影,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
 
-ELTA體育3台,http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8
 緯來體育,http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8
 
 Nickelodeon,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
@@ -508,134 +507,6 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
 
-96源,#genre#
-民视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8813&key=84797b799ae18d1b
-民视新闻台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8820&key=84797b799ae18d1b
-公视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8817&key=84797b799ae18d1b
-公视台语,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8818&key=84797b799ae18d1b
-公视3,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8819&key=84797b799ae18d1b
-台视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8815&key=84797b799ae18d1b
-台视综合,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8828&key=84797b799ae18d1b
-台视新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8822&key=84797b799ae18d1b
-华视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8816&key=84797b799ae18d1b
-华视新闻资讯,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8823&key=84797b799ae18d1b
-客家电视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8825&key=84797b799ae18d1b
-原住民,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8824&key=84797b799ae18d1b
-非凡商业,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12023&key=84797b799ae18d1b
-非凡新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12024&key=84797b799ae18d1b
-中视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8814&key=84797b799ae18d1b
-中视新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8821&key=84797b799ae18d1b
-中视菁采,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8827&key=84797b799ae18d1b
-中视经典,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8826&key=84797b799ae18d1b
-台视财经,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8829&key=84797b799ae18d1b
-美亚电影台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11001&key=84797b799ae18d1b
-卫视中文台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13018&key=84797b799ae18d1b
-卫视电影台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13017&key=84797b799ae18d1b
-卫视洋片台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11002&key=84797b799ae18d1b
-星卫电影台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11003&key=84797b799ae18d1b
-星卫娱乐台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11004&key=84797b799ae18d1b
-国家地理野生,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11008&key=84797b799ae18d1b
-华纳电影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11011&key=84797b799ae18d1b
-韩国娱乐台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11016&key=84797b799ae18d1b
-Cbeebies卡通,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11018&key=84797b799ae18d1b
-Baby TV,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11014&key=84797b799ae18d1b
-Life Time,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11017&key=84797b799ae18d1b
-亚洲旅游台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11020&key=84797b799ae18d1b
-FOX ,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12001&key=84797b799ae18d1b
-FOX MOVIES,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12002&key=84797b799ae18d1b
-FOX CRIME,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11009&key=84797b799ae18d1b
-FOX family,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11010&key=84797b799ae18d1b
-FOX SPORTS,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12003&key=84797b799ae18d1b
-FOX SPORTS 2,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12004&key=84797b799ae18d1b
-FOX Sport 3,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11019&key=84797b799ae18d1b
-TVN,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11015&key=84797b799ae18d1b
-Eleven Sports Plus,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11006&key=84797b799ae18d1b
-Eleven Sports 2,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11007&key=84797b799ae18d1b
-Fx Movie Channel,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11012&key=84797b799ae18d1b
-Crime Investigation,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11013&key=84797b799ae18d1b
-博斯运动,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12005&key=84797b799ae18d1b
-博斯运动2,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12006&key=84797b799ae18d1b
-博斯高球,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12007&key=84797b799ae18d1b
-博斯高球2,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12008&key=84797b799ae18d1b
-博斯魅力,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12009&key=84797b799ae18d1b
-博斯网球,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12010&key=84797b799ae18d1b
-博斯無限,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12011&key=84797b799ae18d1b
-CNN,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12012&key=84797b799ae18d1b
-MTV台湾,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12013&key=84797b799ae18d1b
-Z频道,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12014&key=84797b799ae18d1b
-EYE TV旅游,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8807&key=84797b799ae18d1b
-NBA动态,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8810&key=84797b799ae18d1b
-东风卫视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12015&key=84797b799ae18d1b
-年代MUCH,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12016&key=84797b799ae18d1b
-年代新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12017&key=84797b799ae18d1b
-JET综合,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12018&key=84797b799ae18d1b
-龙翔时代,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12019&key=84797b799ae18d1b
-霹雳台湾台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12020&key=84797b799ae18d1b
-MOMO亲子台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12021&key=84797b799ae18d1b
-国兴卫视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12022&key=84797b799ae18d1b
-动物星球,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13014&key=84797b799ae18d1b
-ANIMAX,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13020&key=84797b799ae18d1b
-AXN,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13021&key=84797b799ae18d1b
-DMAX,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13011&key=84797b799ae18d1b
-Travel Channel,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13024&key=84797b799ae18d1b
-HBO,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13001&key=84797b799ae18d1b
-HBO HITS,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13002&key=84797b799ae18d1b
-HBO family,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13003&key=84797b799ae18d1b
-HBO signature,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13004&key=84797b799ae18d1b
-Asian Food Network,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13005&key=84797b799ae18d1b
-EVE,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13006&key=84797b799ae18d1b
-HITS,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13007&key=84797b799ae18d1b
-Discovery,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13008&key=84797b799ae18d1b
-Discovery Asia,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13009&key=84797b799ae18d1b
-Discovery Scirnce,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13010&key=84797b799ae18d1b
-National Geographic,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13012&key=84797b799ae18d1b
-TLC,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13013&key=84797b799ae18d1b
-CN卡通频道,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13015&key=84797b799ae18d1b
-Hollywood,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13016&key=84797b799ae18d1b
-Euro Sports,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13023&key=84797b799ae18d1b
-CINEMAX,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13022&key=84797b799ae18d1b
-Disney卡通,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13019&key=84797b799ae18d1b
-三立戏剧台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8809&key=84797b799ae18d1b
-三立iNEWS,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14022&key=84797b799ae18d1b
-三立台湾台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14023&key=84797b799ae18d1b
-三立都会台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14024&key=84797b799ae18d1b
-三立新闻台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14021&key=84797b799ae18d1b
-东森新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14001&key=84797b799ae18d1b
-东森财经新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14004&key=84797b799ae18d1b
-东森洋片,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14003&key=84797b799ae18d1b
-东森电影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14002&key=84797b799ae18d1b
-东森戏剧,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14005&key=84797b799ae18d1b
-东森超视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14008&key=84797b799ae18d1b
-东森综合,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14006&key=84797b799ae18d1b
-东森幼幼,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14007&key=84797b799ae18d1b
-纬来综合,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14014&key=84797b799ae18d1b
-纬来电影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14009&key=84797b799ae18d1b
-纬来育樂,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14010&key=84797b799ae18d1b
-纬来日本,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14013&key=84797b799ae18d1b
-纬来体育,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14011&key=84797b799ae18d1b
-纬来戏剧,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14012&key=84797b799ae18d1b
-TVBS,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14015&key=84797b799ae18d1b
-TVBS新闻台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14017&key=84797b799ae18d1b
-TVBS欢乐台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14016&key=84797b799ae18d1b
-中天新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14018&key=84797b799ae18d1b
-中天娱乐,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14020&key=84797b799ae18d1b
-中天综合,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14019&key=84797b799ae18d1b
-寰宇新闻台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15005&key=84797b799ae18d1b
-八大综合台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15002&key=84797b799ae18d1b
-八大娱乐台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15004&key=84797b799ae18d1b
-八大第一台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15001&key=84797b799ae18d1b
-八大戏剧台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15003&key=84797b799ae18d1b
-壹电影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15006&key=84797b799ae18d1b
-美食星球,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8804&key=84797b799ae18d1b
-BBC WORLD NEWS,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15007&key=84797b799ae18d1b
-BBC Lifestyle,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8805&key=84797b799ae18d1b
-BBC Earth,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11005&key=84797b799ae18d1b
-Food Network,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8802&key=84797b799ae18d1b#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8801&key=84797b799ae18d1b
-Baby First,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8803&key=84797b799ae18d1b
-Outdoor Channel,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8806&key=84797b799ae18d1b
-History,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8811&key=84797b799ae18d1b
-History Channel 2,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8812&key=84797b799ae18d1b
-
 18+_711211,#genre#
 JSTAR極限台,p5p://45.92.126.18:9906/6069472f000e3bd815ddf82b31da15c3.ts
 香草天道,p5p://45.92.126.18:9906/604ad659000311780038c940119c842a.ts
@@ -757,61 +628,112 @@ FX HD測試,http://125.227.210.37:13498/VideoInput/play.ts
 有线奥运604台,https://api.leonardpark.dev/live/icable/604
 有线奥运605台,https://api.leonardpark.dev/live/icable/605
 
-HAPPY幸福,P5P://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
-惊艳台HD,P5P://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
-彩虹电影,P5P://51.79.41.138:18912/5c18f8eb000ca180c073df055bc26b76.ts.ts
-彩虹e台,P5P://51.79.41.138:18912/5c18f8ef000d41c9c073eec574332890.ts.ts
-彩虹k台,P5P://51.79.41.138:18912/5c18f8f300074bdfc073fcde6e553705.ts.ts
-HOT星颜,P5P://51.79.41.138:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts
-松视1台,P5P://51.79.41.138:18912/5c18f8fb00064883c0741bdf109f114a.ts.ts
-松视2台,P5P://51.79.41.138:18912/5c18f8f7000d865dc0740e1426765941.ts.ts
-松视3台,P5P://51.79.41.138:18912/5c18f9020004cea3c07436da29307240.ts.ts
-香蕉台,P5P://51.79.41.138:18912/5c18f9090004f8a0c07452412e4e369f.ts.ts
-潘多拉粉红,P5P://51.79.41.138:18912/5c18f90c000e8229c074606a15084f35.ts.ts
-潘多拉完美,P5P://51.79.41.138:18912/5c18f905000c08fbc07444661e2e685e.ts.ts
-
-
-
-TVBS新闻,p5p://user3.shusongw.mobi:16871/5db05ca40003699da50b30c835589bf5.ts 
-
-俄罗斯成人1台,http://live.redtraffic.xyz/teen.m3u8?fluxuslust.m3u8
-俄罗斯成人2台,http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
-俄罗斯成人3台,http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
-俄罗斯成人4台,http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
-俄罗斯成人5台,http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
-俄罗斯成人6台,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
-俄罗斯成人7台,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
-俄罗斯成人8台,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
-俄罗斯成人9台,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
-俄罗斯成人10台,http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
-JASMIN[1280*720],http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w.m3u8
-HOT,http://live.redtraffic.xyz/blowjob.m3u8
-Visit-X TV (Opt-1),http://stream.visit-x.tv/vxtv/live/playlist.m3u8?fluxuslust.m3u8
-Visit-X TV (Opt-2),http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8?fluxuslust.m3u8
-Fetish Channe,https://cdn.adultiptv.net/fetish.m3u8
-Pornstar Channel,https://cdn.adultiptv.net/pornstar.m3u8
-Big Ass Channel,https://cdn.adultiptv.net/bigass.m3u8
-Interracial Channel,https://cdn.adultiptv.net/interracial.m3u8
-Latina Channel,https://cdn.adultiptv.net/latina.m3u8
-POV Channel,https://cdn.adultiptv.net/pov.m3u8
-Blowjob Channel,https://cdn.adultiptv.net/blowjob.m3u8
-Teen Channel,https://cdn.adultiptv.net/teen.m3u8
-Hardcore Channel,https://cdn.adultiptv.net/hardcore.m3u8
-Cuckold Channel,https://cdn.adultiptv.net/cuckold.m3u8
-Threesome Channel,https://cdn.adultiptv.net/threesome.m3u8
-Russian Channel,https://cdn.adultiptv.net/russian.m3u8
-Lesbian Channel,https://cdn.adultiptv.net/lesbian.m3u8
-Live Cams IPTV Channel,https://cdn.adultiptv.net/livecams.m3u8
-Gangbang XXX IPTV Channel,https://cdn.adultiptv.net/gangbang.m3u8
-Rough Channel Link,https://cdn.adultiptv.net/rough.m3u8
-Anal Adult IPTV,https://cdn.adultiptv.net/anal.m3u8
-Compilation XXX Channel,https://cdn.adultiptv.net/compilation.m3u8
-Brunette XXX IPTV ,https://cdn.adultiptv.net/brunette.m3u8
-Blonde XXX Channel,https://cdn.adultiptv.net/blonde.m3u8
-Gay IPTV,https://cdn.adultiptv.net/gay.m3u8
-Asian XXX IPTV,https://cdn.adultiptv.net/asian.m3u8
+Visit-X ,http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
+Jasmin ,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+Nieuwe sinds ,http://93.189.224.117:9030/russkayanoch
+BARELY,http://91.237.126.50:9001/udp/239.10.13.1:1234?token=test
+--,http://91.237.126.50:9001/udp/239.10.13.1:1234?token=test
+Rusland ,http://91.237.126.50:9001/udp/239.10.12.83:1234?token=test
+PLAYBOY ,http://91.237.126.50:9001/udp/239.10.12.69:1234?token=test
+Hustler,http://88.212.50.123:8001/1:0:1:78C8:2C5:600:E080000:0:0:0
+仅在深夜播放,http://88.212.50.123:8001/1:0:1:78C3:2C5:600:E080000:0:0:0
+Private,http://88.212.50.123:8001/1:0:1:78BD:2C5:600:E080000:0:0:0
+Nieuwe sinds ,http://80.24.75.92:5555/udp/239.111.4.1:1234
+Penthouse ,http://80.24.75.92:5555/udp/239.111.4.1:1234
+Penthouse,http://80.24.75.92:5555/udp/239.111.4.1:1234
+XXX 2,http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
+XXX 2,http://51.15.0.141:88/redlightHD/mpegts
+--,http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
+XXX 1,http://51.15.0.141:88/hustlerhd/mpegts
+Nieuwe sinds ,http://5.255.90.184:2000/play/a03e
+Lust Pur,http://5.146.116.76:8001/1:0:19:94D8:1AF:270F:FFFF0000:0:0:0
+Lust Pur ,http://5.146.116.76:8001/1:0:19:94D8:1AF:270F:FFFF0000:0:0:0
+SEXPRVE,http://200.194.238.229:8000/udp/227.0.0.64:1234
+--,http://200.194.238.229:8000/udp/227.0.0.64:1234
+brazze2,http://ott3.gearhostpreview.com/xxav.php?id=191
+sloppy,http://ott3.gearhostpreview.com/xxav.php?id=190
+hot,http://ott3.gearhostpreview.com/xxav.php?id=189
+ana,http://ott3.gearhostpreview.com/xxav.php?id=188
+brazze1,http://ott3.gearhostpreview.com/xxav.php?id=187
+candy,http://ott3.gearhostpreview.com/xxav.php?id=186
+brazze,http://ott3.gearhostpreview.com/xxav.php?id=185
+w,http://ott3.gearhostpreview.com/xxav.php?id=184
+bang1,http://ott3.gearhostpreview.com/xxav.php?id=183
+bang,http://ott3.gearhostpreview.com/xxav.php?id=182
+心,http://ott3.gearhostpreview.com/xxav.php?id=180
+菊花,http://ott3.gearhostpreview.com/xxav.php?id=177
+dp,http://ott3.gearhostpreview.com/xxav.php?id=176
+jasmin,http://ott3.gearhostpreview.com/xxav.php?id=175
+Redlight ,http://ott3.gearhostpreview.com/xxav.php?id=174
+Redlight,http://ott3.gearhostpreview.com/xxav.php?id=174
+penth,http://ott3.gearhostpreview.com/xxav.php?id=173
+brack,http://ott3.gearhostpreview.com/xxav.php?id=172
+Erox,http://ott3.gearhostpreview.com/xxav.php?id=171
+Erox ,http://ott3.gearhostpreview.com/xxav.php?id=171
+花花,http://ott3.gearhostpreview.com/xxav.php?id=170
+Hustler ,http://ott3.gearhostpreview.com/xxav.php?id=169
+Hustler,http://ott3.gearhostpreview.com/xxav.php?id=169
+Vivid Red,http://ott3.gearhostpreview.com/xxav.php?id=168
+Vivid Red ,http://ott3.gearhostpreview.com/xxav.php?id=168
+EXTSY,http://ott3.gearhostpreview.com/xxav.php?id=315
+VLXEN,http://ott3.gearhostpreview.com/xxav.php?id=266
+EMAN,http://ott3.gearhostpreview.com/xxav.php?id=257
+LES,http://ott3.gearhostpreview.com/xxav.php?id=256
+MR,http://ott3.gearhostpreview.com/xxav.php?id=252
+HOT3,http://ott3.gearhostpreview.com/xxav.php?id=251
+BANE,http://ott3.gearhostpreview.com/xxav.php?id=250
+NELXX,http://ott3.gearhostpreview.com/xxav.php?id=249
+LEO,http://ott3.gearhostpreview.com/xxav.php?id=248
+PUR1,http://ott3.gearhostpreview.com/xxav.php?id=246
+PUR,http://ott3.gearhostpreview.com/xxav.php?id=245
+ERO8,http://ott3.gearhostpreview.com/xxav.php?id=244
+ERO7,http://ott3.gearhostpreview.com/xxav.php?id=243
+ERO6,http://ott3.gearhostpreview.com/xxav.php?id=242
+ERO5,http://ott3.gearhostpreview.com/xxav.php?id=241
+ERO4,http://ott3.gearhostpreview.com/xxav.php?id=240
+ERO3,http://ott3.gearhostpreview.com/xxav.php?id=239
+ERO2,http://ott3.gearhostpreview.com/xxav.php?id=238
+ERO,http://ott3.gearhostpreview.com/xxav.php?id=237
+VIVID1,http://ott3.gearhostpreview.com/xxav.php?id=236
+XXL5,http://ott3.gearhostpreview.com/xxav.php?id=235
+BOXXX,http://ott3.gearhostpreview.com/xxav.php?id=234
+VEO HD,http://ott3.gearhostpreview.com/xxav.php?id=233
+VEO ,http://ott3.gearhostpreview.com/xxav.php?id=233
+VEO,http://ott3.gearhostpreview.com/xxav.php?id=233
+HOT2,http://ott3.gearhostpreview.com/xxav.php?id=231
+VENUS,http://ott3.gearhostpreview.com/xxav.php?id=229
+HOT1,http://ott3.gearhostpreview.com/xxav.php?id=228
+RKTV,http://ott3.gearhostpreview.com/xxav.php?id=226
+HUSTLER,http://ott3.gearhostpreview.com/xxav.php?id=223
+USK,http://ott3.gearhostpreview.com/xxav.php?id=222
+XY,http://ott3.gearhostpreview.com/xxav.php?id=218
+XXL4,http://ott3.gearhostpreview.com/xxav.php?id=217
+BRAZZE5,http://ott3.gearhostpreview.com/xxav.php?id=215
+XXL3,http://ott3.gearhostpreview.com/xxav.php?id=213
+HOT ,http://ott3.gearhostpreview.com/xxav.php?id=211
+HOT,http://ott3.gearhostpreview.com/xxav.php?id=211
+男,http://ott3.gearhostpreview.com/xxav.php?id=208
+brazze4,http://ott3.gearhostpreview.com/xxav.php?id=206
+xxl2,http://ott3.gearhostpreview.com/xxav.php?id=205
+xxl1,http://ott3.gearhostpreview.com/xxav.php?id=204
+mrtv,http://ott3.gearhostpreview.com/xxav.php?id=203
+bang2,http://ott3.gearhostpreview.com/xxav.php?id=198
+xxl,http://ott3.gearhostpreview.com/xxav.php?id=197
+girsdopp,http://ott3.gearhostpreview.com/xxav.php?id=196
+brazze3,http://ott3.gearhostpreview.com/xxav.php?id=195
+blackd,http://ott3.gearhostpreview.com/xxav.php?id=194
+ultrafil,http://ott3.gearhostpreview.com/xxav.php?id=193
+brrtv,http://ott3.gearhostpreview.com/xxav.php?id=192
+Miami,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+Miami  Jenny,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+Miami,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
 Penthouse,http://www.filmon.com/vr-streams/6170.high/playlist.m3u8
 Fetish Factory,http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
 Man2Man,http://www.filmon.com/vr-streams/6155.high/playlist.m3u8
 Nieuwe sinds,http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
-星颜台,http://live.redtraffic.xyz/hardcore.m3u8
+AST.TV 2,http://www.ast.tv/stream/2/ultra.m3u8
+AST.TV 2 ,http://www.ast.tv/stream/2/ultra.m3u8
+AST.TV 1,http://www.ast.tv/stream/1/ultra.m3u8
+苹果片,http://tube.cheerleaderfacials.com/trailers/609/cheerleaderfacial_Natalia_Rossi_0006.flv
+Web stream,http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
+
