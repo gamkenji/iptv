@@ -316,10 +316,11 @@ TVBS新聞台,rtmp://161.202.204.248:1935/sat/tv551
 東森超視2,rtmp://161.202.204.248/sat/tv771
 東森財經新聞,rtmp://161.202.204.248:1935/sat/tv571
 MoMo綜合台,rtmp://161.202.204.248/sat/tv761
-ELEVEN+,rtmp://161.202.204.248:1935/sat/md021
-ELEVEN+2,rtmp://161.202.204.248/sat/md021
-ELEVEN2,rtmp://161.202.204.248/sat/md011
-愛爾達體育3台,rtmp://161.202.204.248/sat/md051
+ELTA體育1台,rtmp://161.202.204.248/sat/md041
+ELTA體育3台,rtmp://161.202.204.248/sat/md021
+ELTA奧運1台,rtmp://161.202.204.248/sat/md011
+ELTA奧運2台,rtmp://161.202.204.248/sat/md031
+ELTA奧運3台,rtmp://161.202.204.248/sat/md051
 
 629rtmp源59,#genre#
 民視,rtmp://59.124.75.153/sat/tv051
@@ -340,9 +341,11 @@ MoMo綜合台1,rtmp://59.124.75.153/sat/tv761
 MoMo綜合台2,rtmp://59.124.75.153:1935/sat/tv761
 東森超視1,rtmp://59.124.75.153/sat/tv771
 東森超視2,rtmp://59.124.75.153:1935/sat/tv771
-ELEVEN+,rtmp://59.124.75.153/sat/md021
-ELEVEN2,rtmp://59.124.75.153/sat/md011
-愛爾達體育3台,rtmp://59.124.75.153/sat/md051
+ELTA體育1台,rtmp://59.124.75.153/sat/md041
+ELTA體育3台,rtmp://59.124.75.153/sat/md021
+ELTA奧運1台,rtmp://59.124.75.153/sat/md011
+ELTA奧運2台,rtmp://59.124.75.153/sat/md031
+ELTA奧運3台,rtmp://59.124.75.153/sat/md051
 
 mitv源,#genre#
 TVBS新聞,mitv://fccsovh.pvbox.live:18912/5c2dd76300095ef4ca7620ece66109ec.ts,mitv://fccsovh.pvbox.live:18912/5b1409600008c73bd46bfb2af1f5ae94.ts,mitv://fccseuro.pvbox.live:18912/5c7249c2000e510f1d57a75a30592ee2.ts,mitv://fccseuro.pvbox.live:18912/5c2dd76300095ef4ca7620ece66109ec.ts
@@ -724,7 +727,7 @@ Web stream,http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9
 HBO測試,http://125.227.210.37:16027/VideoInput/play.ts
 東森洋片測試,http://125.227.210.37:18685/VideoInput/play.ts
 CN卡通測試,http://125.227.210.37:16671/VideoInput/play.ts
-TVBS新聞測試,http://125.227.210.37:11055/VideoInput/play.ts
+年代新聞測試,http://125.227.210.37:11055/VideoInput/play.ts
 非凡新聞測試,http://125.227.210.37:15078/VideoInput/play.ts
 緯來体育測試,http://125.227.210.37:18358/VideoInput/play.ts
 FX HD測試,http://125.227.210.37:13498/VideoInput/play.ts
