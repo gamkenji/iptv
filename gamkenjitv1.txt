@@ -259,7 +259,6 @@ TVBS,http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8
 三立台灣,http://198.16.106.62:8278/streams/d/sanlitaiwan/playlist.m3u8
 ELTA-綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 ELTA影劇台,http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
-TLC旅遊生活,http://198.16.106.62:8278/streams/d/tlcasia_zero/playlist.m3u8
 亞洲旅遊,http://198.16.106.62:8278/streams/d/tlcasia_zero/playlist.m3u8  
 Food亞洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 美食星球,http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
