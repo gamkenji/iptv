@@ -505,18 +505,6 @@ AXN,mitv://fccsovh.pvbox.live:18912/5b140922000388777809b9c6f83f6c7c.ts,mitv://f
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
 
 18+_711211,#genre#
-JSTAR極限台,p5p://45.92.126.18:9906/6069472f000e3bd815ddf82b31da15c3.ts
-香草天道,p5p://45.92.126.18:9906/604ad659000311780038c940119c842a.ts
-HAPPY,p5p://45.92.126.18:9906/6069464e000590c215da870b87301a7e.ts
-驚艷台,p5p://45.92.126.18:9906/606945750001667515d73652e172393c.ts
-潘朵拉完美台,p5p://fccs.ggboxtv.tw:8906/606945140007c49115d5bd0bd6181917.ts
-潘朵拉粉紅台,p5p://45.92.126.18:9906/60694470000ba8da15d33d6a30403d05.ts
-HOT,p5p://45.92.126.18:9906/606945cf000dd57c15d8991121145d16.ts
-松視1台,p5p://45.92.126.18:9906/60694312000ca14f15cde67abcbaadc0.ts
-松視2台,p5p://45.92.126.18:9906/606943840001b56215cfa0fe5764c8dc.ts
-松視3台,p5p://45.92.126.18:9906/606943ef00074b4415d14464874a7f4a.ts
-香蕉台,p5p://45.92.126.18:9906/606946c800011e4e15dc6277aee5ff0b.ts
-
 彩虹e台,mitv://ns2.hellotvvod.com:9906/e953ee1fe74c4995acd52ba72c02b0a1.ts
 彩虹電影台,mitv://ns2.hellotvvod.com:9906/856e64d88baf467297993d2cc4ca1be9.ts
 LOOK TV,mitv://ns2.hellotvvod.com:9906/778ec35a672f4c898c3ac116d6681b54.ts
@@ -604,7 +592,6 @@ HOTH,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571
 RUsskayanoch,http://93.189.224.117:9030/russkayanoch
 hustler hd,http://51.15.0.141:88/hustlerhd/index.m3u8
 redlight hd,http://51.15.0.141:88/redlightHD/index.m3u8
-FashionTV,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 Adult Playboy TV,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87443
 Adult Sensation 1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/88544
 Adult Xtreme Satisfaction,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87457
@@ -721,7 +708,6 @@ Penthouse,http://www.filmon.com/vr-streams/6170.high/playlist.m3u8
 Fetish Factory,http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
 Man2Man,http://www.filmon.com/vr-streams/6155.high/playlist.m3u8
 Nieuwe sinds,http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
-AST.TV 2,http://www.ast.tv/stream/2/ultra.m3u8
 苹果片,http://tube.cheerleaderfacials.com/trailers/609/cheerleaderfacial_Natalia_Rossi_0006.flv
 Web stream,http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 XXL,http://185.97.150.19:8082/360
