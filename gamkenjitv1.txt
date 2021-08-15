@@ -323,6 +323,8 @@ ELTA奧運3台,rtmp://59.124.75.153/sat/md051
 台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
 
 綜藝台,#genre#
+三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
+三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 民視,http://seb.sason.top/ptv/ftv.php?id=ms
 民視第一,http://seb.sason.top/ptv/ftv.php?id=dy
 民視台灣,http://seb.sason.top/ptv/ftv.php?id=tw
@@ -330,7 +332,6 @@ ELTA奧運3台,rtmp://59.124.75.153/sat/md051
 民視旅遊,http://seb.sason.top/ptv/ftv.php?id=ly
 民視綜台,http://seb.sason.top/ptv/ftv.php?id=zy 
 靖天資訊,http://61.58.60.230:9319/live/202.m3u8
-靖天歡樂,http://61.58.60.230:9319/live/201.m3u8
 靖洋戲劇,http://61.58.60.230:9319/live/203.m3u8
 靖天天育樂,http://61.58.60.230:9319/live/204.m3u8
 靖天國際,http://61.58.60.230:9319/live/205.m3u8
@@ -565,8 +566,7 @@ erox,http://185.97.150.19:8082/158
 法国情人,http://185.97.150.19:8082/361
 
 測試,#genre#
-三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
-三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
-TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+
+
 
 
