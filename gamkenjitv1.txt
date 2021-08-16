@@ -1,7 +1,7 @@
 新聞台,#genre#
 TVBS新聞台,rtmp://161.202.204.248:1935/sat/tv551#rtmp://59.124.75.153/sat/tv551#rtmp://59.124.75.153:1935/sat/tv551
 壹新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8#http://stream.nexttv.com.tw/n001/playlist.m3u8
-民視新聞,http://seb.sason.top/sc/msxw_fhd.m3u8#https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://210.61.56.23/hls/ftvtv/index.m3u8
+民視新聞,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://210.61.56.23/hls/ftvtv/index.m3u8#http://seb.sason.top/sc/msxw_fhd.m3u8
 台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
 東森財經新聞,rtmp://161.202.204.248:1935/sat/tv571#rtmp://59.124.75.153:1935/sat/tv571
 
