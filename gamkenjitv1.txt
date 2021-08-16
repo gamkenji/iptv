@@ -30,13 +30,13 @@ TVBS歡樂台,rtmp://161.202.204.248/sat/tv421#rtmp://59.124.75.153/sat/tv421#rt
 民視綜台,http://seb.sason.top/ptv/ftv.php?id=zy 
 三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
+ELTA綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+ELTA影劇台,http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
+緯來育樂,rtmp://161.202.204.248/sat/tv701#rtmp://161.202.204.248:1935/sat/tv701#rtmp://59.124.75.153/sat/tv701#rtmp://59.124.75.153:1935/sat/tv701
 MoMo綜合台,rtmp://59.124.75.153/sat/tv761#rtmp://59.124.75.153:1935/sat/tv761#rtmp://161.202.204.248/sat/tv761
 東森超視,rtmp://59.124.75.153/sat/tv771#rtmp://59.124.75.153:1935/sat/tv771#rtmp://161.202.204.248:1935/sat/tv771#rtmp://161.202.204.248/sat/tv771
-ELTA-綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
-ELTA影劇台,http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
 美食星球,http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
 MTV Live,http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
-緯來育樂,rtmp://161.202.204.248/sat/tv701#rtmp://161.202.204.248:1935/sat/tv701#rtmp://59.124.75.153/sat/tv701#rtmp://59.124.75.153:1935/sat/tv701
 靖天資訊,http://61.58.60.230:9319/live/202.m3u8
 靖洋戲劇,http://61.58.60.230:9319/live/203.m3u8
 靖天天育樂,http://61.58.60.230:9319/live/204.m3u8
