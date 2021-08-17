@@ -9,6 +9,11 @@ TVBS新聞台,rtmp://161.202.204.248:1935/sat/tv551#rtmp://59.124.75.153/sat/tv5
 體育台,#genre#
 緯來體育,rtmp://161.202.204.248/sat/tv721#rtmp://161.202.204.248:1935/sat/tv721#rtmp://59.124.75.153/sat/tv721#rtmp://59.124.75.153:1935/sat/tv721
 11-2體育台,rtmp://161.202.204.248/sat/md041#rtmp://59.124.75.153/sat/md041#
+ELEVEN1体育,rtmp://161.202.204.248/sat/tv731
+ELEVEN2体育,rtmp://161.202.204.248/sat/tv741
+愛爾達體育,rtmp://161.202.204.248/sat/md011
+愛爾達奧運,rtmp://161.202.204.248/sat/md041
+愛爾達體育,rtmp://161.202.204.248/sat/md051
 
 電影台,#genre#
 星衛電影,rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d36?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
